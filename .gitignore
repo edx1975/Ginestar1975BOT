@@ -54,3 +54,20 @@ cache/
 
 # Conda
 .conda/
+
+# Backup files
+backup/temp_files/
+*.backup
+
+# IDE and OS
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
