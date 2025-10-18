@@ -1,0 +1,4020 @@
+{
+  "I1843": [
+    {
+      "persona_id": "I1933",
+      "persona_nom": "David USACH GARCIA",
+      "relacio": {
+        "tipus": "sanguinia",
+        "grau": "cosins propers",
+        "distancia": 6,
+        "cami": [
+          "I1843",
+          "I1845",
+          "I1846",
+          "I1854",
+          "I1927",
+          "I1930",
+          "I1933"
+        ]
+      },
+      "num_gotes": 1,
+      "pes": 1166
+    },
+    {
+      "persona_id": "I2599",
+      "persona_nom": "Montserrat PUJOL ARS",
+      "relacio": {
+        "tipus": "sanguinia",
+        "grau": "cosins llunyans",
+        "distancia": 11,
+        "cami": [
+          "I1843",
+          "I1845",
+          "I1847",
+          "I1849",
+          "I1889",
+          "I1914",
+          "I2208",
+          "I2205",
+          "I2206",
+          "I2595",
+          "I2597",
+          "I2599"
+        ]
+      },
+      "num_gotes": 1,
+      "pes": 1090
+    },
+    {
+      "persona_id": "I2994",
+      "persona_nom": "Jaume FLORENZA ÁLVAREZ",
+      "relacio": {
+        "tipus": "sanguinia",
+        "grau": "cosins llunyans",
+        "distancia": 11,
+        "cami": [
+          "I1843",
+          "I1845",
+          "I1847",
+          "I1848",
+          "I1851",
+          "I1949",
+          "I2900",
+          "I2902",
+          "I2983",
+          "I2987",
+          "I2991",
+          "I2994"
+        ]
+      },
+      "num_gotes": 1,
+      "pes": 1090
+    },
+    {
+      "persona_id": "I2465",
+      "persona_nom": "Marta PELLISSA PUJOL",
+      "relacio": {
+        "tipus": "sanguinia",
+        "grau": "cosins llunyans",
+        "distancia": 12,
+        "cami": [
+          "I1843",
+          "I1845",
+          "I1846",
+          "I1871",
+          "I1874",
+          "I2008",
+          "I2622",
+          "I2905",
+          "I2525",
+          "I2516",
+          "I2513",
+          "I2461",
+          "I2465"
+        ]
+      },
+      "num_gotes": 1,
+      "pes": 1083
+    },
+    {
+      "persona_id": "I2217",
+      "persona_nom": "Mireia SEGARRA VANDELLÒS",
+      "relacio": {
+        "tipus": "sanguinia",
+        "grau": "cosins llunyans",
+        "distancia": 12,
+        "cami": [
+          "I1843",
+          "I1845",
+          "I1847",
+          "I1848",
+          "I1851",
+          "I1950",
+          "I2887",
+          "I2889",
+          "I2307",
+          "I2300",
+          "I2222",
+          "I2214",
+          "I2217"
+        ]
+      },
+      "num_gotes": 1,
+      "pes": 1083
+    },
+    {
+      "persona_id": "I2994",
+      "persona_nom": "Jaume FLORENZA ÁLVAREZ",
+      "relacio": {
+        "tipus": "sanguinia",
+        "grau": "cosins llunyans",
+        "distancia": 12,
+        "cami": [
+          "I1843",
+          "I1845",
+          "I1847",
+          "I1848",
+          "I1851",
+          "I1950",
+          "I2887",
+          "I2889",
+          "I2899",
+          "I2983",
+          "I2987",
+          "I2991",
+          "I2994"
+        ]
+      },
+      "num_gotes": 1,
+      "pes": 1083
+    },
+    {
+      "persona_id": "I2599",
+      "persona_nom": "Montserrat PUJOL ARS",
+      "relacio": {
+        "tipus": "sanguinia",
+        "grau": "cosins llunyans",
+        "distancia": 13,
+        "cami": [
+          "I1843",
+          "I1845",
+          "I1846",
+          "I1871",
+          "I1874",
+          "I2008",
+          "I2618",
+          "I2531",
+          "I2619",
+          "I2730",
+          "I2687",
+          "I2596",
+          "I2597",
+          "I2599"
+        ]
+      },
+      "num_gotes": 1,
+      "pes": 1076
+    },
+    {
+      "persona_id": "I3099",
+      "persona_nom": "Segallet Marc ARS BORRÀS",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 10,
+        "cami": [
+          "I1843",
+          "I1845",
+          "I1846",
+          "I1871",
+          "I2538",
+          "I3084",
+          "I3068",
+          "I3085",
+          "I3091",
+          "I3097",
+          "I3099"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 200
+    },
+    {
+      "persona_id": "I2042",
+      "persona_nom": "Òscar PINO VANDELLÒS",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 11,
+        "cami": [
+          "I1843",
+          "I1845",
+          "I1847",
+          "I1849",
+          "I1899",
+          "I1900",
+          "I1916",
+          "I1917",
+          "I1920",
+          "I2022",
+          "I2039",
+          "I2042"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 190
+    },
+    {
+      "persona_id": "I1986",
+      "persona_nom": "Mireia BLADÉ MONTAGUT",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 11,
+        "cami": [
+          "I1843",
+          "I1845",
+          "I1847",
+          "I1848",
+          "I1850",
+          "I1852",
+          "I1853",
+          "I2002",
+          "I1894",
+          "I1973",
+          "I1982",
+          "I1986"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 190
+    },
+    {
+      "persona_id": "I2217",
+      "persona_nom": "Mireia SEGARRA VANDELLÒS",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 11,
+        "cami": [
+          "I1843",
+          "I1845",
+          "I1846",
+          "I1854",
+          "I1927",
+          "I1929",
+          "I2154",
+          "I2748",
+          "I2749",
+          "I2755",
+          "I2218",
+          "I2217"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 190
+    },
+    {
+      "persona_id": "I2661",
+      "persona_nom": "Sílvia ARS POLL",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 11,
+        "cami": [
+          "I1843",
+          "I1845",
+          "I1846",
+          "I1871",
+          "I2538",
+          "I3084",
+          "I3068",
+          "I3063",
+          "I2668",
+          "I2660",
+          "I2656",
+          "I2661"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 190
+    },
+    {
+      "persona_id": "I2599",
+      "persona_nom": "Montserrat PUJOL ARS",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 11,
+        "cami": [
+          "I1843",
+          "I1845",
+          "I1846",
+          "I1854",
+          "I1873",
+          "I1875",
+          "I1876",
+          "I1879",
+          "I2278",
+          "I2279",
+          "I2598",
+          "I2599"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 190
+    },
+    {
+      "persona_id": "I3099",
+      "persona_nom": "Segallet Marc ARS BORRÀS",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 12,
+        "cami": [
+          "I1843",
+          "I1845",
+          "I1847",
+          "I1848",
+          "I1851",
+          "I1950",
+          "I3069",
+          "I3067",
+          "I3068",
+          "I3085",
+          "I3091",
+          "I3097",
+          "I3099"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 183
+    },
+    {
+      "persona_id": "I2661",
+      "persona_nom": "Sílvia ARS POLL",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 12,
+        "cami": [
+          "I1843",
+          "I1845",
+          "I1847",
+          "I1848",
+          "I1851",
+          "I1950",
+          "I3069",
+          "I3067",
+          "I3063",
+          "I2668",
+          "I2660",
+          "I2656",
+          "I2661"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 183
+    },
+    {
+      "persona_id": "I2042",
+      "persona_nom": "Òscar PINO VANDELLÒS",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 13,
+        "cami": [
+          "I1843",
+          "I1845",
+          "I1847",
+          "I1849",
+          "I1899",
+          "I2177",
+          "I2181",
+          "I3277",
+          "I1918",
+          "I1917",
+          "I1920",
+          "I2022",
+          "I2039",
+          "I2042"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 176
+    },
+    {
+      "persona_id": "I3004",
+      "persona_nom": "Tauleret, Josep Maria FIGUERAS PIÑOL de cal Teuler",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 13,
+        "cami": [
+          "I1843",
+          "I1845",
+          "I1847",
+          "I1848",
+          "I1850",
+          "I1886",
+          "I2758",
+          "I3105",
+          "I2761",
+          "I2767",
+          "I2769",
+          "I3108",
+          "I3001",
+          "I3004"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 176
+    },
+    {
+      "persona_id": "I2217",
+      "persona_nom": "Mireia SEGARRA VANDELLÒS",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 13,
+        "cami": [
+          "I1843",
+          "I1845",
+          "I1847",
+          "I1849",
+          "I1899",
+          "I1900",
+          "I1916",
+          "I1917",
+          "I1920",
+          "I2021",
+          "I2033",
+          "I2211",
+          "I2213",
+          "I2217"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 176
+    },
+    {
+      "persona_id": "I1933",
+      "persona_nom": "David USACH GARCIA",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 13,
+        "cami": [
+          "I1843",
+          "I1845",
+          "I1847",
+          "I1848",
+          "I1851",
+          "I1950",
+          "I1951",
+          "I2388",
+          "I1939",
+          "I2170",
+          "I1871",
+          "I1927",
+          "I1930",
+          "I1933"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 176
+    },
+    {
+      "persona_id": "I2465",
+      "persona_nom": "Marta PELLISSA PUJOL",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 14,
+        "cami": [
+          "I1843",
+          "I1845",
+          "I1847",
+          "I1848",
+          "I1850",
+          "I1852",
+          "I1853",
+          "I2002",
+          "I1894",
+          "I1973",
+          "I1984",
+          "I1994",
+          "I2464",
+          "I2460",
+          "I2465"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 171
+    },
+    {
+      "persona_id": "I2994",
+      "persona_nom": "Jaume FLORENZA ÁLVAREZ",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 14,
+        "cami": [
+          "I1843",
+          "I1845",
+          "I1846",
+          "I1871",
+          "I2170",
+          "I1939",
+          "I2388",
+          "I1951",
+          "I1949",
+          "I2900",
+          "I2902",
+          "I2983",
+          "I2987",
+          "I2991",
+          "I2994"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 171
+    },
+    {
+      "persona_id": "I3099",
+      "persona_nom": "Segallet Marc ARS BORRÀS",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 15,
+        "cami": [
+          "I1843",
+          "I1845",
+          "I1846",
+          "I1871",
+          "I2170",
+          "I1939",
+          "I2388",
+          "I1951",
+          "I1950",
+          "I3069",
+          "I3067",
+          "I3068",
+          "I3085",
+          "I3091",
+          "I3097",
+          "I3099"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 166
+    },
+    {
+      "persona_id": "I3004",
+      "persona_nom": "Tauleret, Josep Maria FIGUERAS PIÑOL de cal Teuler",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 15,
+        "cami": [
+          "I1843",
+          "I1845",
+          "I1846",
+          "I1871",
+          "I2538",
+          "I3084",
+          "I3068",
+          "I3063",
+          "I2668",
+          "I2660",
+          "I2659",
+          "I2799",
+          "I2998",
+          "I3108",
+          "I3001",
+          "I3004"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 166
+    },
+    {
+      "persona_id": "I2465",
+      "persona_nom": "Marta PELLISSA PUJOL",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 15,
+        "cami": [
+          "I1843",
+          "I1845",
+          "I1846",
+          "I1871",
+          "I1874",
+          "I2008",
+          "I2622",
+          "I2905",
+          "I2525",
+          "I2527",
+          "I2629",
+          "I2822",
+          "I2521",
+          "I2514",
+          "I2461",
+          "I2465"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 166
+    },
+    {
+      "persona_id": "I1986",
+      "persona_nom": "Mireia BLADÉ MONTAGUT",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 15,
+        "cami": [
+          "I1843",
+          "I1845",
+          "I1847",
+          "I1848",
+          "I1851",
+          "I1950",
+          "I2000",
+          "I1997",
+          "I1948",
+          "I1945",
+          "I1944",
+          "I1893",
+          "I1892",
+          "I1973",
+          "I1982",
+          "I1986"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 166
+    },
+    {
+      "persona_id": "I2661",
+      "persona_nom": "Sílvia ARS POLL",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 15,
+        "cami": [
+          "I1843",
+          "I1845",
+          "I1847",
+          "I1848",
+          "I1850",
+          "I1886",
+          "I2758",
+          "I3105",
+          "I2761",
+          "I2767",
+          "I2769",
+          "I3108",
+          "I2998",
+          "I2799",
+          "I2659",
+          "I2661"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 166
+    },
+    {
+      "persona_id": "I1933",
+      "persona_nom": "David USACH GARCIA",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 15,
+        "cami": [
+          "I1843",
+          "I1845",
+          "I1847",
+          "I1848",
+          "I1850",
+          "I2172",
+          "I2886",
+          "I2930",
+          "I2913",
+          "I2912",
+          "I2186",
+          "I2156",
+          "I2155",
+          "I1929",
+          "I1930",
+          "I1933"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 166
+    }
+  ],
+  "I2042": [
+    {
+      "persona_id": "I2217",
+      "persona_nom": "Mireia SEGARRA VANDELLÒS",
+      "relacio": {
+        "tipus": "sanguinia",
+        "grau": "cosins propers",
+        "distancia": 6,
+        "cami": [
+          "I2042",
+          "I2039",
+          "I2021",
+          "I2033",
+          "I2211",
+          "I2213",
+          "I2217"
+        ]
+      },
+      "num_gotes": 1,
+      "pes": 1166
+    },
+    {
+      "persona_id": "I1843",
+      "persona_nom": "Eduard LLORENS PUJOL",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 11,
+        "cami": [
+          "I2042",
+          "I2039",
+          "I2022",
+          "I1920",
+          "I1917",
+          "I1916",
+          "I1900",
+          "I1899",
+          "I1849",
+          "I1847",
+          "I1845",
+          "I1843"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 190
+    },
+    {
+      "persona_id": "I2465",
+      "persona_nom": "Marta PELLISSA PUJOL",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 12,
+        "cami": [
+          "I2042",
+          "I2039",
+          "I2021",
+          "I2033",
+          "I2211",
+          "I2212",
+          "I2234",
+          "I2236",
+          "I2239",
+          "I2476",
+          "I2472",
+          "I2460",
+          "I2465"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 183
+    },
+    {
+      "persona_id": "I1843",
+      "persona_nom": "Eduard LLORENS PUJOL",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 13,
+        "cami": [
+          "I2042",
+          "I2039",
+          "I2022",
+          "I1920",
+          "I1917",
+          "I1918",
+          "I3277",
+          "I2181",
+          "I2177",
+          "I1899",
+          "I1849",
+          "I1847",
+          "I1845",
+          "I1843"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 176
+    },
+    {
+      "persona_id": "I2599",
+      "persona_nom": "Montserrat PUJOL ARS",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 14,
+        "cami": [
+          "I2042",
+          "I2039",
+          "I2022",
+          "I1920",
+          "I1917",
+          "I1916",
+          "I1900",
+          "I1889",
+          "I1914",
+          "I2208",
+          "I2205",
+          "I2206",
+          "I2595",
+          "I2597",
+          "I2599"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 171
+    },
+    {
+      "persona_id": "I1933",
+      "persona_nom": "David USACH GARCIA",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 14,
+        "cami": [
+          "I2042",
+          "I2039",
+          "I2022",
+          "I1920",
+          "I1917",
+          "I1916",
+          "I1900",
+          "I1899",
+          "I1849",
+          "I1847",
+          "I1846",
+          "I1854",
+          "I1927",
+          "I1930",
+          "I1933"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 171
+    },
+    {
+      "persona_id": "I2994",
+      "persona_nom": "Jaume FLORENZA ÁLVAREZ",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 15,
+        "cami": [
+          "I2042",
+          "I2039",
+          "I2021",
+          "I2033",
+          "I2211",
+          "I2213",
+          "I2214",
+          "I2222",
+          "I2300",
+          "I2307",
+          "I2308",
+          "I2899",
+          "I2983",
+          "I2987",
+          "I2991",
+          "I2994"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 166
+    }
+  ],
+  "I3099": [
+    {
+      "persona_id": "I2661",
+      "persona_nom": "Sílvia ARS POLL",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 9,
+        "cami": [
+          "I3099",
+          "I3097",
+          "I3091",
+          "I3085",
+          "I3068",
+          "I3063",
+          "I2668",
+          "I2660",
+          "I2656",
+          "I2661"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 211
+    },
+    {
+      "persona_id": "I1843",
+      "persona_nom": "Eduard LLORENS PUJOL",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 10,
+        "cami": [
+          "I3099",
+          "I3097",
+          "I3091",
+          "I3085",
+          "I3068",
+          "I3084",
+          "I2538",
+          "I1871",
+          "I1846",
+          "I1845",
+          "I1843"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 200
+    },
+    {
+      "persona_id": "I1933",
+      "persona_nom": "David USACH GARCIA",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 10,
+        "cami": [
+          "I3099",
+          "I3097",
+          "I3091",
+          "I3085",
+          "I3068",
+          "I3084",
+          "I2538",
+          "I1871",
+          "I1927",
+          "I1930",
+          "I1933"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 200
+    },
+    {
+      "persona_id": "I1843",
+      "persona_nom": "Eduard LLORENS PUJOL",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 12,
+        "cami": [
+          "I3099",
+          "I3097",
+          "I3091",
+          "I3085",
+          "I3068",
+          "I3067",
+          "I3069",
+          "I1950",
+          "I1851",
+          "I1848",
+          "I1847",
+          "I1845",
+          "I1843"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 183
+    },
+    {
+      "persona_id": "I1933",
+      "persona_nom": "David USACH GARCIA",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 12,
+        "cami": [
+          "I3099",
+          "I3097",
+          "I3091",
+          "I3085",
+          "I3068",
+          "I3067",
+          "I3070",
+          "I3073",
+          "I1874",
+          "I1871",
+          "I1927",
+          "I1930",
+          "I1933"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 183
+    },
+    {
+      "persona_id": "I3004",
+      "persona_nom": "Tauleret, Josep Maria FIGUERAS PIÑOL de cal Teuler",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 13,
+        "cami": [
+          "I3099",
+          "I3097",
+          "I3091",
+          "I3085",
+          "I3068",
+          "I3063",
+          "I2668",
+          "I2660",
+          "I2659",
+          "I2799",
+          "I2998",
+          "I3108",
+          "I3001",
+          "I3004"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 176
+    },
+    {
+      "persona_id": "I2994",
+      "persona_nom": "Jaume FLORENZA ÁLVAREZ",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 13,
+        "cami": [
+          "I3099",
+          "I3097",
+          "I3091",
+          "I3085",
+          "I3068",
+          "I3067",
+          "I3069",
+          "I1949",
+          "I2900",
+          "I2902",
+          "I2983",
+          "I2987",
+          "I2991",
+          "I2994"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 176
+    },
+    {
+      "persona_id": "I2217",
+      "persona_nom": "Mireia SEGARRA VANDELLÒS",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 14,
+        "cami": [
+          "I3099",
+          "I3097",
+          "I3091",
+          "I3085",
+          "I3068",
+          "I3067",
+          "I3069",
+          "I1950",
+          "I2887",
+          "I2889",
+          "I2307",
+          "I2300",
+          "I2222",
+          "I2214",
+          "I2217"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 171
+    },
+    {
+      "persona_id": "I2994",
+      "persona_nom": "Jaume FLORENZA ÁLVAREZ",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 14,
+        "cami": [
+          "I3099",
+          "I3097",
+          "I3091",
+          "I3085",
+          "I3068",
+          "I3067",
+          "I3069",
+          "I1950",
+          "I2887",
+          "I2889",
+          "I2899",
+          "I2983",
+          "I2987",
+          "I2991",
+          "I2994"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 171
+    },
+    {
+      "persona_id": "I1843",
+      "persona_nom": "Eduard LLORENS PUJOL",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 15,
+        "cami": [
+          "I3099",
+          "I3097",
+          "I3091",
+          "I3085",
+          "I3068",
+          "I3067",
+          "I3069",
+          "I1950",
+          "I1951",
+          "I2388",
+          "I1939",
+          "I2170",
+          "I1871",
+          "I1846",
+          "I1845",
+          "I1843"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 166
+    },
+    {
+      "persona_id": "I1986",
+      "persona_nom": "Mireia BLADÉ MONTAGUT",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 15,
+        "cami": [
+          "I3099",
+          "I3097",
+          "I3091",
+          "I3085",
+          "I3068",
+          "I3067",
+          "I3069",
+          "I1950",
+          "I1851",
+          "I1852",
+          "I1853",
+          "I2002",
+          "I1894",
+          "I1973",
+          "I1982",
+          "I1986"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 166
+    },
+    {
+      "persona_id": "I2217",
+      "persona_nom": "Mireia SEGARRA VANDELLÒS",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 15,
+        "cami": [
+          "I3099",
+          "I3097",
+          "I3091",
+          "I3085",
+          "I3068",
+          "I3084",
+          "I2538",
+          "I1871",
+          "I1927",
+          "I1929",
+          "I2154",
+          "I2748",
+          "I2749",
+          "I2755",
+          "I2218",
+          "I2217"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 166
+    },
+    {
+      "persona_id": "I2599",
+      "persona_nom": "Montserrat PUJOL ARS",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 15,
+        "cami": [
+          "I3099",
+          "I3097",
+          "I3091",
+          "I3085",
+          "I3068",
+          "I3063",
+          "I2668",
+          "I2660",
+          "I2656",
+          "I2653",
+          "I2648",
+          "I2646",
+          "I2727",
+          "I2596",
+          "I2597",
+          "I2599"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 166
+    },
+    {
+      "persona_id": "I1933",
+      "persona_nom": "David USACH GARCIA",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 15,
+        "cami": [
+          "I3099",
+          "I3097",
+          "I3091",
+          "I3085",
+          "I3068",
+          "I3067",
+          "I3069",
+          "I1950",
+          "I1851",
+          "I1848",
+          "I1847",
+          "I1846",
+          "I1854",
+          "I1927",
+          "I1930",
+          "I1933"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 166
+    }
+  ],
+  "I3004": [
+    {
+      "persona_id": "I2661",
+      "persona_nom": "Sílvia ARS POLL",
+      "relacio": {
+        "tipus": "sanguinia",
+        "grau": "cosins propers",
+        "distancia": 6,
+        "cami": [
+          "I3004",
+          "I3001",
+          "I3108",
+          "I2998",
+          "I2799",
+          "I2659",
+          "I2661"
+        ]
+      },
+      "num_gotes": 1,
+      "pes": 1166
+    },
+    {
+      "persona_id": "I1843",
+      "persona_nom": "Eduard LLORENS PUJOL",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 13,
+        "cami": [
+          "I3004",
+          "I3001",
+          "I3108",
+          "I2769",
+          "I2767",
+          "I2761",
+          "I3105",
+          "I2758",
+          "I1886",
+          "I1850",
+          "I1848",
+          "I1847",
+          "I1845",
+          "I1843"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 176
+    },
+    {
+      "persona_id": "I3099",
+      "persona_nom": "Segallet Marc ARS BORRÀS",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 13,
+        "cami": [
+          "I3004",
+          "I3001",
+          "I3108",
+          "I2998",
+          "I2799",
+          "I2659",
+          "I2660",
+          "I2668",
+          "I3063",
+          "I3068",
+          "I3085",
+          "I3091",
+          "I3097",
+          "I3099"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 176
+    },
+    {
+      "persona_id": "I2599",
+      "persona_nom": "Montserrat PUJOL ARS",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 13,
+        "cami": [
+          "I3004",
+          "I3001",
+          "I3108",
+          "I2998",
+          "I2799",
+          "I2659",
+          "I2656",
+          "I2653",
+          "I2648",
+          "I2646",
+          "I2727",
+          "I2596",
+          "I2597",
+          "I2599"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 176
+    },
+    {
+      "persona_id": "I1843",
+      "persona_nom": "Eduard LLORENS PUJOL",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 15,
+        "cami": [
+          "I3004",
+          "I3001",
+          "I3108",
+          "I2998",
+          "I2799",
+          "I2659",
+          "I2660",
+          "I2668",
+          "I3063",
+          "I3068",
+          "I3084",
+          "I2538",
+          "I1871",
+          "I1846",
+          "I1845",
+          "I1843"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 166
+    },
+    {
+      "persona_id": "I1933",
+      "persona_nom": "David USACH GARCIA",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 15,
+        "cami": [
+          "I3004",
+          "I3001",
+          "I3108",
+          "I2998",
+          "I2799",
+          "I2659",
+          "I2660",
+          "I2668",
+          "I3063",
+          "I3068",
+          "I3084",
+          "I2538",
+          "I1871",
+          "I1927",
+          "I1930",
+          "I1933"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 166
+    }
+  ],
+  "I2465": [
+    {
+      "persona_id": "I1843",
+      "persona_nom": "Eduard LLORENS PUJOL",
+      "relacio": {
+        "tipus": "sanguinia",
+        "grau": "cosins llunyans",
+        "distancia": 12,
+        "cami": [
+          "I2465",
+          "I2461",
+          "I2513",
+          "I2516",
+          "I2525",
+          "I2905",
+          "I2622",
+          "I2008",
+          "I1874",
+          "I1871",
+          "I1846",
+          "I1845",
+          "I1843"
+        ]
+      },
+      "num_gotes": 1,
+      "pes": 1083
+    },
+    {
+      "persona_id": "I1933",
+      "persona_nom": "David USACH GARCIA",
+      "relacio": {
+        "tipus": "sanguinia",
+        "grau": "cosins llunyans",
+        "distancia": 12,
+        "cami": [
+          "I2465",
+          "I2461",
+          "I2513",
+          "I2516",
+          "I2525",
+          "I2905",
+          "I2622",
+          "I2008",
+          "I1874",
+          "I1871",
+          "I1927",
+          "I1930",
+          "I1933"
+        ]
+      },
+      "num_gotes": 1,
+      "pes": 1083
+    },
+    {
+      "persona_id": "I2599",
+      "persona_nom": "Montserrat PUJOL ARS",
+      "relacio": {
+        "tipus": "sanguinia",
+        "grau": "cosins llunyans",
+        "distancia": 13,
+        "cami": [
+          "I2465",
+          "I2461",
+          "I2513",
+          "I2516",
+          "I2525",
+          "I2905",
+          "I2618",
+          "I2531",
+          "I2619",
+          "I2730",
+          "I2687",
+          "I2596",
+          "I2597",
+          "I2599"
+        ]
+      },
+      "num_gotes": 1,
+      "pes": 1076
+    },
+    {
+      "persona_id": "I1986",
+      "persona_nom": "Mireia BLADÉ MONTAGUT",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents propers",
+        "distancia": 7,
+        "cami": [
+          "I2465",
+          "I2460",
+          "I2464",
+          "I1994",
+          "I1984",
+          "I1973",
+          "I1982",
+          "I1986"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 242
+    },
+    {
+      "persona_id": "I2217",
+      "persona_nom": "Mireia SEGARRA VANDELLÒS",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 9,
+        "cami": [
+          "I2465",
+          "I2460",
+          "I2472",
+          "I2476",
+          "I2239",
+          "I2236",
+          "I2234",
+          "I2212",
+          "I2213",
+          "I2217"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 211
+    },
+    {
+      "persona_id": "I2042",
+      "persona_nom": "Òscar PINO VANDELLÒS",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 12,
+        "cami": [
+          "I2465",
+          "I2460",
+          "I2472",
+          "I2476",
+          "I2239",
+          "I2236",
+          "I2234",
+          "I2212",
+          "I2211",
+          "I2033",
+          "I2021",
+          "I2039",
+          "I2042"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 183
+    },
+    {
+      "persona_id": "I2599",
+      "persona_nom": "Montserrat PUJOL ARS",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 13,
+        "cami": [
+          "I2465",
+          "I2461",
+          "I2514",
+          "I2521",
+          "I3172",
+          "I3231",
+          "I2739",
+          "I2738",
+          "I2733",
+          "I2731",
+          "I2687",
+          "I2596",
+          "I2597",
+          "I2599"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 176
+    },
+    {
+      "persona_id": "I1843",
+      "persona_nom": "Eduard LLORENS PUJOL",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 14,
+        "cami": [
+          "I2465",
+          "I2460",
+          "I2464",
+          "I1994",
+          "I1984",
+          "I1973",
+          "I1894",
+          "I2002",
+          "I1853",
+          "I1852",
+          "I1850",
+          "I1848",
+          "I1847",
+          "I1845",
+          "I1843"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 171
+    },
+    {
+      "persona_id": "I1843",
+      "persona_nom": "Eduard LLORENS PUJOL",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 15,
+        "cami": [
+          "I2465",
+          "I2461",
+          "I2514",
+          "I2521",
+          "I2822",
+          "I2629",
+          "I2527",
+          "I2525",
+          "I2905",
+          "I2622",
+          "I2008",
+          "I1874",
+          "I1871",
+          "I1846",
+          "I1845",
+          "I1843"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 166
+    },
+    {
+      "persona_id": "I1933",
+      "persona_nom": "David USACH GARCIA",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 15,
+        "cami": [
+          "I2465",
+          "I2461",
+          "I2514",
+          "I2521",
+          "I2822",
+          "I2629",
+          "I2527",
+          "I2525",
+          "I2905",
+          "I2622",
+          "I2008",
+          "I1874",
+          "I1871",
+          "I1927",
+          "I1930",
+          "I1933"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 166
+    }
+  ],
+  "I1986": [
+    {
+      "persona_id": "I2465",
+      "persona_nom": "Marta PELLISSA PUJOL",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents propers",
+        "distancia": 7,
+        "cami": [
+          "I1986",
+          "I1982",
+          "I1973",
+          "I1984",
+          "I1994",
+          "I2464",
+          "I2460",
+          "I2465"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 242
+    },
+    {
+      "persona_id": "I1843",
+      "persona_nom": "Eduard LLORENS PUJOL",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 11,
+        "cami": [
+          "I1986",
+          "I1982",
+          "I1973",
+          "I1894",
+          "I2002",
+          "I1853",
+          "I1852",
+          "I1850",
+          "I1848",
+          "I1847",
+          "I1845",
+          "I1843"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 190
+    },
+    {
+      "persona_id": "I2217",
+      "persona_nom": "Mireia SEGARRA VANDELLÒS",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 14,
+        "cami": [
+          "I1986",
+          "I1982",
+          "I1973",
+          "I1984",
+          "I1994",
+          "I2464",
+          "I2460",
+          "I2472",
+          "I2476",
+          "I2239",
+          "I2236",
+          "I2234",
+          "I2212",
+          "I2213",
+          "I2217"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 171
+    },
+    {
+      "persona_id": "I2994",
+      "persona_nom": "Jaume FLORENZA ÁLVAREZ",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 14,
+        "cami": [
+          "I1986",
+          "I1982",
+          "I1973",
+          "I1894",
+          "I2002",
+          "I1853",
+          "I1852",
+          "I1851",
+          "I1949",
+          "I2900",
+          "I2902",
+          "I2983",
+          "I2987",
+          "I2991",
+          "I2994"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 171
+    },
+    {
+      "persona_id": "I1933",
+      "persona_nom": "David USACH GARCIA",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 14,
+        "cami": [
+          "I1986",
+          "I1982",
+          "I1973",
+          "I1894",
+          "I2002",
+          "I1853",
+          "I1852",
+          "I1850",
+          "I1848",
+          "I1847",
+          "I1846",
+          "I1854",
+          "I1927",
+          "I1930",
+          "I1933"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 171
+    },
+    {
+      "persona_id": "I1843",
+      "persona_nom": "Eduard LLORENS PUJOL",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 15,
+        "cami": [
+          "I1986",
+          "I1982",
+          "I1973",
+          "I1892",
+          "I1893",
+          "I1944",
+          "I1945",
+          "I1948",
+          "I1997",
+          "I2000",
+          "I1950",
+          "I1851",
+          "I1848",
+          "I1847",
+          "I1845",
+          "I1843"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 166
+    },
+    {
+      "persona_id": "I3099",
+      "persona_nom": "Segallet Marc ARS BORRÀS",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 15,
+        "cami": [
+          "I1986",
+          "I1982",
+          "I1973",
+          "I1894",
+          "I2002",
+          "I1853",
+          "I1852",
+          "I1851",
+          "I1950",
+          "I3069",
+          "I3067",
+          "I3068",
+          "I3085",
+          "I3091",
+          "I3097",
+          "I3099"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 166
+    },
+    {
+      "persona_id": "I2217",
+      "persona_nom": "Mireia SEGARRA VANDELLÒS",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 15,
+        "cami": [
+          "I1986",
+          "I1982",
+          "I1973",
+          "I1894",
+          "I2002",
+          "I1853",
+          "I1852",
+          "I1851",
+          "I1950",
+          "I2887",
+          "I2889",
+          "I2307",
+          "I2300",
+          "I2222",
+          "I2214",
+          "I2217"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 166
+    },
+    {
+      "persona_id": "I2661",
+      "persona_nom": "Sílvia ARS POLL",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 15,
+        "cami": [
+          "I1986",
+          "I1982",
+          "I1973",
+          "I1894",
+          "I2002",
+          "I1853",
+          "I1852",
+          "I1851",
+          "I1950",
+          "I3069",
+          "I3067",
+          "I3063",
+          "I2668",
+          "I2660",
+          "I2656",
+          "I2661"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 166
+    },
+    {
+      "persona_id": "I2994",
+      "persona_nom": "Jaume FLORENZA ÁLVAREZ",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 15,
+        "cami": [
+          "I1986",
+          "I1982",
+          "I1973",
+          "I1894",
+          "I2002",
+          "I1853",
+          "I1852",
+          "I1851",
+          "I1950",
+          "I2887",
+          "I2889",
+          "I2899",
+          "I2983",
+          "I2987",
+          "I2991",
+          "I2994"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 166
+    }
+  ],
+  "I2217": [
+    {
+      "persona_id": "I2042",
+      "persona_nom": "Òscar PINO VANDELLÒS",
+      "relacio": {
+        "tipus": "sanguinia",
+        "grau": "cosins propers",
+        "distancia": 6,
+        "cami": [
+          "I2217",
+          "I2213",
+          "I2211",
+          "I2033",
+          "I2021",
+          "I2039",
+          "I2042"
+        ]
+      },
+      "num_gotes": 1,
+      "pes": 1166
+    },
+    {
+      "persona_id": "I2994",
+      "persona_nom": "Jaume FLORENZA ÁLVAREZ",
+      "relacio": {
+        "tipus": "sanguinia",
+        "grau": "cosins llunyans",
+        "distancia": 10,
+        "cami": [
+          "I2217",
+          "I2214",
+          "I2222",
+          "I2300",
+          "I2307",
+          "I2308",
+          "I2899",
+          "I2983",
+          "I2987",
+          "I2991",
+          "I2994"
+        ]
+      },
+      "num_gotes": 1,
+      "pes": 1100
+    },
+    {
+      "persona_id": "I1843",
+      "persona_nom": "Eduard LLORENS PUJOL",
+      "relacio": {
+        "tipus": "sanguinia",
+        "grau": "cosins llunyans",
+        "distancia": 12,
+        "cami": [
+          "I2217",
+          "I2214",
+          "I2222",
+          "I2300",
+          "I2307",
+          "I2889",
+          "I2887",
+          "I1950",
+          "I1851",
+          "I1848",
+          "I1847",
+          "I1845",
+          "I1843"
+        ]
+      },
+      "num_gotes": 1,
+      "pes": 1083
+    },
+    {
+      "persona_id": "I1933",
+      "persona_nom": "David USACH GARCIA",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 8,
+        "cami": [
+          "I2217",
+          "I2218",
+          "I2755",
+          "I2749",
+          "I2748",
+          "I2154",
+          "I1929",
+          "I1930",
+          "I1933"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 225
+    },
+    {
+      "persona_id": "I2465",
+      "persona_nom": "Marta PELLISSA PUJOL",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 9,
+        "cami": [
+          "I2217",
+          "I2213",
+          "I2212",
+          "I2234",
+          "I2236",
+          "I2239",
+          "I2476",
+          "I2472",
+          "I2460",
+          "I2465"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 211
+    },
+    {
+      "persona_id": "I1843",
+      "persona_nom": "Eduard LLORENS PUJOL",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 11,
+        "cami": [
+          "I2217",
+          "I2218",
+          "I2755",
+          "I2749",
+          "I2748",
+          "I2154",
+          "I1929",
+          "I1927",
+          "I1854",
+          "I1846",
+          "I1845",
+          "I1843"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 190
+    },
+    {
+      "persona_id": "I1843",
+      "persona_nom": "Eduard LLORENS PUJOL",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 13,
+        "cami": [
+          "I2217",
+          "I2213",
+          "I2211",
+          "I2033",
+          "I2021",
+          "I1920",
+          "I1917",
+          "I1916",
+          "I1900",
+          "I1899",
+          "I1849",
+          "I1847",
+          "I1845",
+          "I1843"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 176
+    },
+    {
+      "persona_id": "I3099",
+      "persona_nom": "Segallet Marc ARS BORRÀS",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 14,
+        "cami": [
+          "I2217",
+          "I2214",
+          "I2222",
+          "I2300",
+          "I2307",
+          "I2889",
+          "I2887",
+          "I1950",
+          "I3069",
+          "I3067",
+          "I3068",
+          "I3085",
+          "I3091",
+          "I3097",
+          "I3099"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 171
+    },
+    {
+      "persona_id": "I1986",
+      "persona_nom": "Mireia BLADÉ MONTAGUT",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 14,
+        "cami": [
+          "I2217",
+          "I2213",
+          "I2212",
+          "I2234",
+          "I2236",
+          "I2239",
+          "I2476",
+          "I2472",
+          "I2460",
+          "I2464",
+          "I1994",
+          "I1984",
+          "I1973",
+          "I1982",
+          "I1986"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 171
+    },
+    {
+      "persona_id": "I2661",
+      "persona_nom": "Sílvia ARS POLL",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 14,
+        "cami": [
+          "I2217",
+          "I2214",
+          "I2222",
+          "I2300",
+          "I2307",
+          "I2889",
+          "I2887",
+          "I1950",
+          "I3069",
+          "I3067",
+          "I3063",
+          "I2668",
+          "I2660",
+          "I2656",
+          "I2661"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 171
+    },
+    {
+      "persona_id": "I2994",
+      "persona_nom": "Jaume FLORENZA ÁLVAREZ",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 14,
+        "cami": [
+          "I2217",
+          "I2214",
+          "I2222",
+          "I2300",
+          "I2307",
+          "I2889",
+          "I2887",
+          "I1950",
+          "I1949",
+          "I2900",
+          "I2902",
+          "I2983",
+          "I2987",
+          "I2991",
+          "I2994"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 171
+    },
+    {
+      "persona_id": "I3099",
+      "persona_nom": "Segallet Marc ARS BORRÀS",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 15,
+        "cami": [
+          "I2217",
+          "I2218",
+          "I2755",
+          "I2749",
+          "I2748",
+          "I2154",
+          "I1929",
+          "I1927",
+          "I1871",
+          "I2538",
+          "I3084",
+          "I3068",
+          "I3085",
+          "I3091",
+          "I3097",
+          "I3099"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 166
+    },
+    {
+      "persona_id": "I1986",
+      "persona_nom": "Mireia BLADÉ MONTAGUT",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 15,
+        "cami": [
+          "I2217",
+          "I2214",
+          "I2222",
+          "I2300",
+          "I2307",
+          "I2889",
+          "I2887",
+          "I1950",
+          "I1851",
+          "I1852",
+          "I1853",
+          "I2002",
+          "I1894",
+          "I1973",
+          "I1982",
+          "I1986"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 166
+    },
+    {
+      "persona_id": "I1933",
+      "persona_nom": "David USACH GARCIA",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 15,
+        "cami": [
+          "I2217",
+          "I2214",
+          "I2222",
+          "I2300",
+          "I2307",
+          "I2889",
+          "I2887",
+          "I1950",
+          "I1851",
+          "I1848",
+          "I1847",
+          "I1846",
+          "I1854",
+          "I1927",
+          "I1930",
+          "I1933"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 166
+    }
+  ],
+  "I2661": [
+    {
+      "persona_id": "I3004",
+      "persona_nom": "Tauleret, Josep Maria FIGUERAS PIÑOL de cal Teuler",
+      "relacio": {
+        "tipus": "sanguinia",
+        "grau": "cosins propers",
+        "distancia": 6,
+        "cami": [
+          "I2661",
+          "I2659",
+          "I2799",
+          "I2998",
+          "I3108",
+          "I3001",
+          "I3004"
+        ]
+      },
+      "num_gotes": 1,
+      "pes": 1166
+    },
+    {
+      "persona_id": "I2599",
+      "persona_nom": "Montserrat PUJOL ARS",
+      "relacio": {
+        "tipus": "sanguinia",
+        "grau": "cosins llunyans",
+        "distancia": 8,
+        "cami": [
+          "I2661",
+          "I2656",
+          "I2653",
+          "I2648",
+          "I2646",
+          "I2727",
+          "I2596",
+          "I2597",
+          "I2599"
+        ]
+      },
+      "num_gotes": 1,
+      "pes": 1125
+    },
+    {
+      "persona_id": "I3099",
+      "persona_nom": "Segallet Marc ARS BORRÀS",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 9,
+        "cami": [
+          "I2661",
+          "I2656",
+          "I2660",
+          "I2668",
+          "I3063",
+          "I3068",
+          "I3085",
+          "I3091",
+          "I3097",
+          "I3099"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 211
+    },
+    {
+      "persona_id": "I1843",
+      "persona_nom": "Eduard LLORENS PUJOL",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 11,
+        "cami": [
+          "I2661",
+          "I2656",
+          "I2660",
+          "I2668",
+          "I3063",
+          "I3068",
+          "I3084",
+          "I2538",
+          "I1871",
+          "I1846",
+          "I1845",
+          "I1843"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 190
+    },
+    {
+      "persona_id": "I1933",
+      "persona_nom": "David USACH GARCIA",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 11,
+        "cami": [
+          "I2661",
+          "I2656",
+          "I2660",
+          "I2668",
+          "I3063",
+          "I3068",
+          "I3084",
+          "I2538",
+          "I1871",
+          "I1927",
+          "I1930",
+          "I1933"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 190
+    },
+    {
+      "persona_id": "I1843",
+      "persona_nom": "Eduard LLORENS PUJOL",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 12,
+        "cami": [
+          "I2661",
+          "I2656",
+          "I2660",
+          "I2668",
+          "I3063",
+          "I3067",
+          "I3069",
+          "I1950",
+          "I1851",
+          "I1848",
+          "I1847",
+          "I1845",
+          "I1843"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 183
+    },
+    {
+      "persona_id": "I1933",
+      "persona_nom": "David USACH GARCIA",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 12,
+        "cami": [
+          "I2661",
+          "I2656",
+          "I2660",
+          "I2668",
+          "I3063",
+          "I3067",
+          "I3070",
+          "I3073",
+          "I1874",
+          "I1871",
+          "I1927",
+          "I1930",
+          "I1933"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 183
+    },
+    {
+      "persona_id": "I2994",
+      "persona_nom": "Jaume FLORENZA ÁLVAREZ",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 13,
+        "cami": [
+          "I2661",
+          "I2656",
+          "I2660",
+          "I2668",
+          "I3063",
+          "I3067",
+          "I3069",
+          "I1949",
+          "I2900",
+          "I2902",
+          "I2983",
+          "I2987",
+          "I2991",
+          "I2994"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 176
+    },
+    {
+      "persona_id": "I2217",
+      "persona_nom": "Mireia SEGARRA VANDELLÒS",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 14,
+        "cami": [
+          "I2661",
+          "I2656",
+          "I2660",
+          "I2668",
+          "I3063",
+          "I3067",
+          "I3069",
+          "I1950",
+          "I2887",
+          "I2889",
+          "I2307",
+          "I2300",
+          "I2222",
+          "I2214",
+          "I2217"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 171
+    },
+    {
+      "persona_id": "I2994",
+      "persona_nom": "Jaume FLORENZA ÁLVAREZ",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 14,
+        "cami": [
+          "I2661",
+          "I2656",
+          "I2660",
+          "I2668",
+          "I3063",
+          "I3067",
+          "I3069",
+          "I1950",
+          "I2887",
+          "I2889",
+          "I2899",
+          "I2983",
+          "I2987",
+          "I2991",
+          "I2994"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 171
+    },
+    {
+      "persona_id": "I1843",
+      "persona_nom": "Eduard LLORENS PUJOL",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 15,
+        "cami": [
+          "I2661",
+          "I2656",
+          "I2655",
+          "I2674",
+          "I2360",
+          "I2358",
+          "I2315",
+          "I2314",
+          "I2183",
+          "I2181",
+          "I2177",
+          "I1899",
+          "I1849",
+          "I1847",
+          "I1845",
+          "I1843"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 166
+    },
+    {
+      "persona_id": "I1986",
+      "persona_nom": "Mireia BLADÉ MONTAGUT",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 15,
+        "cami": [
+          "I2661",
+          "I2656",
+          "I2660",
+          "I2668",
+          "I3063",
+          "I3067",
+          "I3069",
+          "I1950",
+          "I1851",
+          "I1852",
+          "I1853",
+          "I2002",
+          "I1894",
+          "I1973",
+          "I1982",
+          "I1986"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 166
+    },
+    {
+      "persona_id": "I2599",
+      "persona_nom": "Montserrat PUJOL ARS",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 15,
+        "cami": [
+          "I2661",
+          "I2656",
+          "I2653",
+          "I2648",
+          "I2646",
+          "I2727",
+          "I2728",
+          "I2741",
+          "I2797",
+          "I3258",
+          "I3229",
+          "I2731",
+          "I2687",
+          "I2596",
+          "I2597",
+          "I2599"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 166
+    },
+    {
+      "persona_id": "I1933",
+      "persona_nom": "David USACH GARCIA",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 15,
+        "cami": [
+          "I2661",
+          "I2656",
+          "I2660",
+          "I2668",
+          "I3063",
+          "I3067",
+          "I3069",
+          "I1950",
+          "I1851",
+          "I1848",
+          "I1847",
+          "I1846",
+          "I1854",
+          "I1927",
+          "I1930",
+          "I1933"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 166
+    }
+  ],
+  "I2599": [
+    {
+      "persona_id": "I2661",
+      "persona_nom": "Sílvia ARS POLL",
+      "relacio": {
+        "tipus": "sanguinia",
+        "grau": "cosins llunyans",
+        "distancia": 8,
+        "cami": [
+          "I2599",
+          "I2597",
+          "I2596",
+          "I2727",
+          "I2646",
+          "I2648",
+          "I2653",
+          "I2656",
+          "I2661"
+        ]
+      },
+      "num_gotes": 1,
+      "pes": 1125
+    },
+    {
+      "persona_id": "I1843",
+      "persona_nom": "Eduard LLORENS PUJOL",
+      "relacio": {
+        "tipus": "sanguinia",
+        "grau": "cosins llunyans",
+        "distancia": 11,
+        "cami": [
+          "I2599",
+          "I2597",
+          "I2595",
+          "I2206",
+          "I2205",
+          "I2208",
+          "I1914",
+          "I1889",
+          "I1849",
+          "I1847",
+          "I1845",
+          "I1843"
+        ]
+      },
+      "num_gotes": 1,
+      "pes": 1090
+    },
+    {
+      "persona_id": "I1843",
+      "persona_nom": "Eduard LLORENS PUJOL",
+      "relacio": {
+        "tipus": "sanguinia",
+        "grau": "cosins llunyans",
+        "distancia": 13,
+        "cami": [
+          "I2599",
+          "I2597",
+          "I2596",
+          "I2687",
+          "I2730",
+          "I2619",
+          "I2531",
+          "I2618",
+          "I2008",
+          "I1874",
+          "I1871",
+          "I1846",
+          "I1845",
+          "I1843"
+        ]
+      },
+      "num_gotes": 1,
+      "pes": 1076
+    },
+    {
+      "persona_id": "I2465",
+      "persona_nom": "Marta PELLISSA PUJOL",
+      "relacio": {
+        "tipus": "sanguinia",
+        "grau": "cosins llunyans",
+        "distancia": 13,
+        "cami": [
+          "I2599",
+          "I2597",
+          "I2596",
+          "I2687",
+          "I2730",
+          "I2619",
+          "I2531",
+          "I2618",
+          "I2905",
+          "I2525",
+          "I2516",
+          "I2513",
+          "I2461",
+          "I2465"
+        ]
+      },
+      "num_gotes": 1,
+      "pes": 1076
+    },
+    {
+      "persona_id": "I1933",
+      "persona_nom": "David USACH GARCIA",
+      "relacio": {
+        "tipus": "sanguinia",
+        "grau": "cosins llunyans",
+        "distancia": 13,
+        "cami": [
+          "I2599",
+          "I2597",
+          "I2596",
+          "I2687",
+          "I2730",
+          "I2619",
+          "I2531",
+          "I2618",
+          "I2008",
+          "I1874",
+          "I1871",
+          "I1927",
+          "I1930",
+          "I1933"
+        ]
+      },
+      "num_gotes": 1,
+      "pes": 1076
+    },
+    {
+      "persona_id": "I1843",
+      "persona_nom": "Eduard LLORENS PUJOL",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 11,
+        "cami": [
+          "I2599",
+          "I2598",
+          "I2279",
+          "I2278",
+          "I1879",
+          "I1876",
+          "I1875",
+          "I1873",
+          "I1854",
+          "I1846",
+          "I1845",
+          "I1843"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 190
+    },
+    {
+      "persona_id": "I1933",
+      "persona_nom": "David USACH GARCIA",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 11,
+        "cami": [
+          "I2599",
+          "I2598",
+          "I2279",
+          "I2278",
+          "I1879",
+          "I1876",
+          "I1875",
+          "I1873",
+          "I1854",
+          "I1927",
+          "I1930",
+          "I1933"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 190
+    },
+    {
+      "persona_id": "I3004",
+      "persona_nom": "Tauleret, Josep Maria FIGUERAS PIÑOL de cal Teuler",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 13,
+        "cami": [
+          "I2599",
+          "I2597",
+          "I2596",
+          "I2727",
+          "I2646",
+          "I2648",
+          "I2653",
+          "I2656",
+          "I2659",
+          "I2799",
+          "I2998",
+          "I3108",
+          "I3001",
+          "I3004"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 176
+    },
+    {
+      "persona_id": "I2465",
+      "persona_nom": "Marta PELLISSA PUJOL",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 13,
+        "cami": [
+          "I2599",
+          "I2597",
+          "I2596",
+          "I2687",
+          "I2731",
+          "I2733",
+          "I2738",
+          "I2739",
+          "I3231",
+          "I3172",
+          "I2521",
+          "I2514",
+          "I2461",
+          "I2465"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 176
+    },
+    {
+      "persona_id": "I2042",
+      "persona_nom": "Òscar PINO VANDELLÒS",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 14,
+        "cami": [
+          "I2599",
+          "I2597",
+          "I2595",
+          "I2206",
+          "I2205",
+          "I2208",
+          "I1914",
+          "I1889",
+          "I1900",
+          "I1916",
+          "I1917",
+          "I1920",
+          "I2022",
+          "I2039",
+          "I2042"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 171
+    },
+    {
+      "persona_id": "I1933",
+      "persona_nom": "David USACH GARCIA",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 14,
+        "cami": [
+          "I2599",
+          "I2597",
+          "I2595",
+          "I2206",
+          "I2205",
+          "I2208",
+          "I1914",
+          "I1889",
+          "I1849",
+          "I1847",
+          "I1846",
+          "I1854",
+          "I1927",
+          "I1930",
+          "I1933"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 171
+    },
+    {
+      "persona_id": "I3099",
+      "persona_nom": "Segallet Marc ARS BORRÀS",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 15,
+        "cami": [
+          "I2599",
+          "I2597",
+          "I2596",
+          "I2727",
+          "I2646",
+          "I2648",
+          "I2653",
+          "I2656",
+          "I2660",
+          "I2668",
+          "I3063",
+          "I3068",
+          "I3085",
+          "I3091",
+          "I3097",
+          "I3099"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 166
+    },
+    {
+      "persona_id": "I2661",
+      "persona_nom": "Sílvia ARS POLL",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 15,
+        "cami": [
+          "I2599",
+          "I2597",
+          "I2596",
+          "I2687",
+          "I2731",
+          "I3229",
+          "I3258",
+          "I2797",
+          "I2741",
+          "I2728",
+          "I2727",
+          "I2646",
+          "I2648",
+          "I2653",
+          "I2656",
+          "I2661"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 166
+    }
+  ],
+  "I2994": [
+    {
+      "persona_id": "I2217",
+      "persona_nom": "Mireia SEGARRA VANDELLÒS",
+      "relacio": {
+        "tipus": "sanguinia",
+        "grau": "cosins llunyans",
+        "distancia": 10,
+        "cami": [
+          "I2994",
+          "I2991",
+          "I2987",
+          "I2983",
+          "I2899",
+          "I2308",
+          "I2307",
+          "I2300",
+          "I2222",
+          "I2214",
+          "I2217"
+        ]
+      },
+      "num_gotes": 1,
+      "pes": 1100
+    },
+    {
+      "persona_id": "I1843",
+      "persona_nom": "Eduard LLORENS PUJOL",
+      "relacio": {
+        "tipus": "sanguinia",
+        "grau": "cosins llunyans",
+        "distancia": 11,
+        "cami": [
+          "I2994",
+          "I2991",
+          "I2987",
+          "I2983",
+          "I2902",
+          "I2900",
+          "I1949",
+          "I1851",
+          "I1848",
+          "I1847",
+          "I1845",
+          "I1843"
+        ]
+      },
+      "num_gotes": 1,
+      "pes": 1090
+    },
+    {
+      "persona_id": "I1843",
+      "persona_nom": "Eduard LLORENS PUJOL",
+      "relacio": {
+        "tipus": "sanguinia",
+        "grau": "cosins llunyans",
+        "distancia": 12,
+        "cami": [
+          "I2994",
+          "I2991",
+          "I2987",
+          "I2983",
+          "I2899",
+          "I2889",
+          "I2887",
+          "I1950",
+          "I1851",
+          "I1848",
+          "I1847",
+          "I1845",
+          "I1843"
+        ]
+      },
+      "num_gotes": 1,
+      "pes": 1083
+    },
+    {
+      "persona_id": "I3099",
+      "persona_nom": "Segallet Marc ARS BORRÀS",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 13,
+        "cami": [
+          "I2994",
+          "I2991",
+          "I2987",
+          "I2983",
+          "I2902",
+          "I2900",
+          "I1949",
+          "I3069",
+          "I3067",
+          "I3068",
+          "I3085",
+          "I3091",
+          "I3097",
+          "I3099"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 176
+    },
+    {
+      "persona_id": "I2661",
+      "persona_nom": "Sílvia ARS POLL",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 13,
+        "cami": [
+          "I2994",
+          "I2991",
+          "I2987",
+          "I2983",
+          "I2902",
+          "I2900",
+          "I1949",
+          "I3069",
+          "I3067",
+          "I3063",
+          "I2668",
+          "I2660",
+          "I2656",
+          "I2661"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 176
+    },
+    {
+      "persona_id": "I1843",
+      "persona_nom": "Eduard LLORENS PUJOL",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 14,
+        "cami": [
+          "I2994",
+          "I2991",
+          "I2987",
+          "I2983",
+          "I2902",
+          "I2900",
+          "I1949",
+          "I1951",
+          "I2388",
+          "I1939",
+          "I2170",
+          "I1871",
+          "I1846",
+          "I1845",
+          "I1843"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 171
+    },
+    {
+      "persona_id": "I3099",
+      "persona_nom": "Segallet Marc ARS BORRÀS",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 14,
+        "cami": [
+          "I2994",
+          "I2991",
+          "I2987",
+          "I2983",
+          "I2899",
+          "I2889",
+          "I2887",
+          "I1950",
+          "I3069",
+          "I3067",
+          "I3068",
+          "I3085",
+          "I3091",
+          "I3097",
+          "I3099"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 171
+    },
+    {
+      "persona_id": "I1986",
+      "persona_nom": "Mireia BLADÉ MONTAGUT",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 14,
+        "cami": [
+          "I2994",
+          "I2991",
+          "I2987",
+          "I2983",
+          "I2902",
+          "I2900",
+          "I1949",
+          "I1851",
+          "I1852",
+          "I1853",
+          "I2002",
+          "I1894",
+          "I1973",
+          "I1982",
+          "I1986"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 171
+    },
+    {
+      "persona_id": "I2217",
+      "persona_nom": "Mireia SEGARRA VANDELLÒS",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 14,
+        "cami": [
+          "I2994",
+          "I2991",
+          "I2987",
+          "I2983",
+          "I2902",
+          "I2900",
+          "I1949",
+          "I1950",
+          "I2887",
+          "I2889",
+          "I2307",
+          "I2300",
+          "I2222",
+          "I2214",
+          "I2217"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 171
+    },
+    {
+      "persona_id": "I2661",
+      "persona_nom": "Sílvia ARS POLL",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 14,
+        "cami": [
+          "I2994",
+          "I2991",
+          "I2987",
+          "I2983",
+          "I2899",
+          "I2889",
+          "I2887",
+          "I1950",
+          "I3069",
+          "I3067",
+          "I3063",
+          "I2668",
+          "I2660",
+          "I2656",
+          "I2661"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 171
+    },
+    {
+      "persona_id": "I1933",
+      "persona_nom": "David USACH GARCIA",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 14,
+        "cami": [
+          "I2994",
+          "I2991",
+          "I2987",
+          "I2983",
+          "I2902",
+          "I2900",
+          "I1949",
+          "I1851",
+          "I1848",
+          "I1847",
+          "I1846",
+          "I1854",
+          "I1927",
+          "I1930",
+          "I1933"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 171
+    },
+    {
+      "persona_id": "I2042",
+      "persona_nom": "Òscar PINO VANDELLÒS",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 15,
+        "cami": [
+          "I2994",
+          "I2991",
+          "I2987",
+          "I2983",
+          "I2899",
+          "I2308",
+          "I2307",
+          "I2300",
+          "I2222",
+          "I2214",
+          "I2213",
+          "I2211",
+          "I2033",
+          "I2021",
+          "I2039",
+          "I2042"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 166
+    },
+    {
+      "persona_id": "I1986",
+      "persona_nom": "Mireia BLADÉ MONTAGUT",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 15,
+        "cami": [
+          "I2994",
+          "I2991",
+          "I2987",
+          "I2983",
+          "I2899",
+          "I2889",
+          "I2887",
+          "I1950",
+          "I1851",
+          "I1852",
+          "I1853",
+          "I2002",
+          "I1894",
+          "I1973",
+          "I1982",
+          "I1986"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 166
+    },
+    {
+      "persona_id": "I1933",
+      "persona_nom": "David USACH GARCIA",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 15,
+        "cami": [
+          "I2994",
+          "I2991",
+          "I2987",
+          "I2983",
+          "I2899",
+          "I2889",
+          "I2887",
+          "I1950",
+          "I1851",
+          "I1848",
+          "I1847",
+          "I1846",
+          "I1854",
+          "I1927",
+          "I1930",
+          "I1933"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 166
+    }
+  ],
+  "I1933": [
+    {
+      "persona_id": "I1843",
+      "persona_nom": "Eduard LLORENS PUJOL",
+      "relacio": {
+        "tipus": "sanguinia",
+        "grau": "cosins propers",
+        "distancia": 6,
+        "cami": [
+          "I1933",
+          "I1930",
+          "I1927",
+          "I1854",
+          "I1846",
+          "I1845",
+          "I1843"
+        ]
+      },
+      "num_gotes": 1,
+      "pes": 1166
+    },
+    {
+      "persona_id": "I2465",
+      "persona_nom": "Marta PELLISSA PUJOL",
+      "relacio": {
+        "tipus": "sanguinia",
+        "grau": "cosins llunyans",
+        "distancia": 12,
+        "cami": [
+          "I1933",
+          "I1930",
+          "I1927",
+          "I1871",
+          "I1874",
+          "I2008",
+          "I2622",
+          "I2905",
+          "I2525",
+          "I2516",
+          "I2513",
+          "I2461",
+          "I2465"
+        ]
+      },
+      "num_gotes": 1,
+      "pes": 1083
+    },
+    {
+      "persona_id": "I2599",
+      "persona_nom": "Montserrat PUJOL ARS",
+      "relacio": {
+        "tipus": "sanguinia",
+        "grau": "cosins llunyans",
+        "distancia": 13,
+        "cami": [
+          "I1933",
+          "I1930",
+          "I1927",
+          "I1871",
+          "I1874",
+          "I2008",
+          "I2618",
+          "I2531",
+          "I2619",
+          "I2730",
+          "I2687",
+          "I2596",
+          "I2597",
+          "I2599"
+        ]
+      },
+      "num_gotes": 1,
+      "pes": 1076
+    },
+    {
+      "persona_id": "I2217",
+      "persona_nom": "Mireia SEGARRA VANDELLÒS",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 8,
+        "cami": [
+          "I1933",
+          "I1930",
+          "I1929",
+          "I2154",
+          "I2748",
+          "I2749",
+          "I2755",
+          "I2218",
+          "I2217"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 225
+    },
+    {
+      "persona_id": "I3099",
+      "persona_nom": "Segallet Marc ARS BORRÀS",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 10,
+        "cami": [
+          "I1933",
+          "I1930",
+          "I1927",
+          "I1871",
+          "I2538",
+          "I3084",
+          "I3068",
+          "I3085",
+          "I3091",
+          "I3097",
+          "I3099"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 200
+    },
+    {
+      "persona_id": "I2661",
+      "persona_nom": "Sílvia ARS POLL",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 11,
+        "cami": [
+          "I1933",
+          "I1930",
+          "I1927",
+          "I1871",
+          "I2538",
+          "I3084",
+          "I3068",
+          "I3063",
+          "I2668",
+          "I2660",
+          "I2656",
+          "I2661"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 190
+    },
+    {
+      "persona_id": "I2599",
+      "persona_nom": "Montserrat PUJOL ARS",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 11,
+        "cami": [
+          "I1933",
+          "I1930",
+          "I1927",
+          "I1854",
+          "I1873",
+          "I1875",
+          "I1876",
+          "I1879",
+          "I2278",
+          "I2279",
+          "I2598",
+          "I2599"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 190
+    },
+    {
+      "persona_id": "I3099",
+      "persona_nom": "Segallet Marc ARS BORRÀS",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 12,
+        "cami": [
+          "I1933",
+          "I1930",
+          "I1927",
+          "I1871",
+          "I1874",
+          "I3073",
+          "I3070",
+          "I3067",
+          "I3068",
+          "I3085",
+          "I3091",
+          "I3097",
+          "I3099"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 183
+    },
+    {
+      "persona_id": "I2661",
+      "persona_nom": "Sílvia ARS POLL",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 12,
+        "cami": [
+          "I1933",
+          "I1930",
+          "I1927",
+          "I1871",
+          "I1874",
+          "I3073",
+          "I3070",
+          "I3067",
+          "I3063",
+          "I2668",
+          "I2660",
+          "I2656",
+          "I2661"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 183
+    },
+    {
+      "persona_id": "I1843",
+      "persona_nom": "Eduard LLORENS PUJOL",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 13,
+        "cami": [
+          "I1933",
+          "I1930",
+          "I1927",
+          "I1871",
+          "I2170",
+          "I1939",
+          "I2388",
+          "I1951",
+          "I1950",
+          "I1851",
+          "I1848",
+          "I1847",
+          "I1845",
+          "I1843"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 176
+    },
+    {
+      "persona_id": "I2042",
+      "persona_nom": "Òscar PINO VANDELLÒS",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 14,
+        "cami": [
+          "I1933",
+          "I1930",
+          "I1927",
+          "I1854",
+          "I1846",
+          "I1847",
+          "I1849",
+          "I1899",
+          "I1900",
+          "I1916",
+          "I1917",
+          "I1920",
+          "I2022",
+          "I2039",
+          "I2042"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 171
+    },
+    {
+      "persona_id": "I1986",
+      "persona_nom": "Mireia BLADÉ MONTAGUT",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 14,
+        "cami": [
+          "I1933",
+          "I1930",
+          "I1927",
+          "I1854",
+          "I1846",
+          "I1847",
+          "I1848",
+          "I1850",
+          "I1852",
+          "I1853",
+          "I2002",
+          "I1894",
+          "I1973",
+          "I1982",
+          "I1986"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 171
+    },
+    {
+      "persona_id": "I2599",
+      "persona_nom": "Montserrat PUJOL ARS",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 14,
+        "cami": [
+          "I1933",
+          "I1930",
+          "I1927",
+          "I1854",
+          "I1846",
+          "I1847",
+          "I1849",
+          "I1889",
+          "I1914",
+          "I2208",
+          "I2205",
+          "I2206",
+          "I2595",
+          "I2597",
+          "I2599"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 171
+    },
+    {
+      "persona_id": "I2994",
+      "persona_nom": "Jaume FLORENZA ÁLVAREZ",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 14,
+        "cami": [
+          "I1933",
+          "I1930",
+          "I1927",
+          "I1854",
+          "I1846",
+          "I1847",
+          "I1848",
+          "I1851",
+          "I1949",
+          "I2900",
+          "I2902",
+          "I2983",
+          "I2987",
+          "I2991",
+          "I2994"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 171
+    },
+    {
+      "persona_id": "I1843",
+      "persona_nom": "Eduard LLORENS PUJOL",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 15,
+        "cami": [
+          "I1933",
+          "I1930",
+          "I1929",
+          "I2155",
+          "I2156",
+          "I2186",
+          "I2912",
+          "I2913",
+          "I2930",
+          "I2886",
+          "I2172",
+          "I1850",
+          "I1848",
+          "I1847",
+          "I1845",
+          "I1843"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 166
+    },
+    {
+      "persona_id": "I3099",
+      "persona_nom": "Segallet Marc ARS BORRÀS",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 15,
+        "cami": [
+          "I1933",
+          "I1930",
+          "I1927",
+          "I1854",
+          "I1846",
+          "I1847",
+          "I1848",
+          "I1851",
+          "I1950",
+          "I3069",
+          "I3067",
+          "I3068",
+          "I3085",
+          "I3091",
+          "I3097",
+          "I3099"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 166
+    },
+    {
+      "persona_id": "I3004",
+      "persona_nom": "Tauleret, Josep Maria FIGUERAS PIÑOL de cal Teuler",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 15,
+        "cami": [
+          "I1933",
+          "I1930",
+          "I1927",
+          "I1871",
+          "I2538",
+          "I3084",
+          "I3068",
+          "I3063",
+          "I2668",
+          "I2660",
+          "I2659",
+          "I2799",
+          "I2998",
+          "I3108",
+          "I3001",
+          "I3004"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 166
+    },
+    {
+      "persona_id": "I2465",
+      "persona_nom": "Marta PELLISSA PUJOL",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 15,
+        "cami": [
+          "I1933",
+          "I1930",
+          "I1927",
+          "I1871",
+          "I1874",
+          "I2008",
+          "I2622",
+          "I2905",
+          "I2525",
+          "I2527",
+          "I2629",
+          "I2822",
+          "I2521",
+          "I2514",
+          "I2461",
+          "I2465"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 166
+    },
+    {
+      "persona_id": "I2217",
+      "persona_nom": "Mireia SEGARRA VANDELLÒS",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 15,
+        "cami": [
+          "I1933",
+          "I1930",
+          "I1927",
+          "I1854",
+          "I1846",
+          "I1847",
+          "I1848",
+          "I1851",
+          "I1950",
+          "I2887",
+          "I2889",
+          "I2307",
+          "I2300",
+          "I2222",
+          "I2214",
+          "I2217"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 166
+    },
+    {
+      "persona_id": "I2661",
+      "persona_nom": "Sílvia ARS POLL",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 15,
+        "cami": [
+          "I1933",
+          "I1930",
+          "I1927",
+          "I1854",
+          "I1846",
+          "I1847",
+          "I1848",
+          "I1851",
+          "I1950",
+          "I3069",
+          "I3067",
+          "I3063",
+          "I2668",
+          "I2660",
+          "I2656",
+          "I2661"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 166
+    },
+    {
+      "persona_id": "I2994",
+      "persona_nom": "Jaume FLORENZA ÁLVAREZ",
+      "relacio": {
+        "tipus": "no_sanguinia",
+        "grau": "parents llunyans",
+        "distancia": 15,
+        "cami": [
+          "I1933",
+          "I1930",
+          "I1927",
+          "I1854",
+          "I1846",
+          "I1847",
+          "I1848",
+          "I1851",
+          "I1950",
+          "I2887",
+          "I2889",
+          "I2899",
+          "I2983",
+          "I2987",
+          "I2991",
+          "I2994"
+        ]
+      },
+      "num_gotes": 0,
+      "pes": 166
+    }
+  ]
+}
