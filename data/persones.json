@@ -1,0 +1,79 @@
+{
+  "I1843": {
+    "nom": "Eduard Llorens Pujol",
+    "sexe": "U",
+    "naixement": null,
+    "defuncio": null,
+    "apodos": ["Edu", "Eduard", "Eduardet", "Llorens", "barber", "barbe"]
+  },
+  "I2042": {
+    "nom": "Òscar Pino Vandellòs",
+    "sexe": "M",
+    "naixement": null,
+    "defuncio": null,
+    "apodos": ["Oscar", "Pino", "Oscaret", "nen"]
+  },
+  "I3099": {
+    "nom": "Segallet Marc Ars Borràs",
+    "sexe": "M",
+    "naixement": null,
+    "defuncio": null,
+    "apodos": ["Marc", "Marc Ars", "Segallet", "Ars", "segall"]
+  },
+  "I3004": {
+    "nom": "Josep Maria Taule Figueras",
+    "sexe": "M",
+    "naixement": null,
+    "defuncio": null,
+    "apodos": ["Josep", "Josep Maria", "Taule", "Figueras", "tauleret"]
+  },
+  "I2465": {
+    "nom": "Marta Pellissa Pujol",
+    "sexe": "F",
+    "naixement": null,
+    "defuncio": null,
+    "apodos": ["Marta", "Pellissa", "Marteta"]
+  },
+  "I1986": {
+    "nom": "Mireia Bladé Montagut",
+    "sexe": "F",
+    "naixement": null,
+    "defuncio": null,
+    "apodos": ["Mireia b", "Blade", "Montagut", "pecha", "pecheta"]
+  },
+  "I2217": {
+    "nom": "Mireia Segarra Vandellòs",
+    "sexe": "F",
+    "naixement": null,
+    "defuncio": null,
+    "apodos": ["Mireia s", "Segarra", "cisquet", "barbi", "Segarreta"]
+  },
+  "I2661": {
+    "nom": "Sílvia Ars Poll",
+    "sexe": "F",
+    "naixement": null,
+    "defuncio": null,
+    "apodos": ["Silvia", "Ars", "parreta", "Silviet", "Silvita"]
+  },
+  "I2599": {
+    "nom": "Montserrat Pujol Ars",
+    "sexe": "F",
+    "naixement": null,
+    "defuncio": null,
+    "apodos": ["Montserrat", "Montse", "topi", "topina", "Monse"]
+  },
+  "I2994": {
+    "nom": "Jaume Florenza Álvarez",
+    "sexe": "M",
+    "naixement": null,
+    "defuncio": null,
+    "apodos": ["Jaume", "Florenza"]
+  },
+  "I1933": {
+    "nom": "David Usach Garcia",
+    "sexe": "M",
+    "naixement": null,
+    "defuncio": null,
+    "apodos": ["David", "Usach", "guelo"]
+  }
+}
