@@ -74,3 +74,7 @@ debug_*.py
 test_*.py
 *_test.py
 *_debug.py
+scripts/debug_*.py
+scripts/test_*.py
+scripts/*_test.py
+scripts/*_debug.py
