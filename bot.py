@@ -595,7 +595,7 @@ Gràcies per la teva contribució! 🙏"""
         if not context.args:
             await update.message.reply_text(
                 "✖️ Has d'especificar el missatge a enviar.\n\n"
-                "Exemple: `/enviar \JoanPratMoliner>MontserratMolinerRoca>DavidGilRoca\"`",
+                "Exemple: `/enviar JoanPratMoliner>MontserratMolinerRoca>DavidGilRoca`",
                 parse_mode='Markdown'
             )
             return
