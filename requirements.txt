@@ -1,4 +1,4 @@
-python-telegram-bot==20.8
+python-telegram-bot==20.6
 networkx==3.2.1
 python-gedcom==1.0.0
 python-dotenv==1.0.0
