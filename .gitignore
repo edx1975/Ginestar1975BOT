@@ -66,7 +66,8 @@ cache/
 railway.json
 
 # Backup files
-backup/temp_files/
+backup/
+old/
 *.backup
 
 # Test and debug files
