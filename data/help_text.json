@@ -1,0 +1,22 @@
+{
+  "help_text": [
+    "🧬 <b>Bot Genealògic - Comandes disponibles</b>",
+    "",
+    "🔗 <b>RELACIONS</b>",
+    "• /kintos → Les teves relacions amb el grup",
+    "• /relacio nom1 nom2 → Relació entre dues persones",
+    "• /tots → Matriu de totes les relacions",
+    "",
+    "📝 <b>APORTACIONS</b>",
+    "• /aporta → Com aportar informació nova",
+    "• /enviar missatge → Enviar aportació",
+    "",
+    "ℹ️ <b>INFORMACIÓ</b>",
+    "• /apodos → Mostra tots els apodos disponibles",
+    "• /ajuda → Mostra aquesta ajuda",
+    "",
+    "💡 <b>EXEMPLES D'ÚS</b>",
+    "• /relacio Taule Parreta",
+    "• /enviar AlbaCollPua>MontserratGilColl>DavidGarciaGil"
+  ]
+}

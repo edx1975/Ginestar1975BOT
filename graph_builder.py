@@ -137,14 +137,14 @@ class GraphBuilder:
     
     def _has_important_common_ancestor(self, cami: List[str]) -> bool:
         """Verifica si el camí passa per ancestres comuns importants"""
-        # Llistar ancestres comuns importants
+        # Llistar ancestres comuns importants (TEMPORALMENT DESACTIVAT)
         important_ancestors = [
-            "BLENGUA",
-            "Anton PUJOL",
-            "germana1 BLENGUA",
-            "germana2 BLENGUA",
-            "Jaime SABATÉ BLENGUA",
-            "Dolores SENDRA BLENGUA"
+            # "BLENGUA",
+            # "Anton PUJOL",
+            # "germana1 BLENGUA",
+            # "germana2 BLENGUA",
+            # "Jaime SABATÉ BLENGUA",
+            # "Dolores SENDRA BLENGUA"
         ]
         
         for persona_id in cami:

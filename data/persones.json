@@ -4,28 +4,28 @@
     "sexe": "U",
     "naixement": null,
     "defuncio": null,
-    "apodos": ["Edu", "Eduard", "Eduardet", "Llorens", "barber", "barbe"]
+    "apodos": ["Edu", "Eduard", "Llorens", "barber", "barbe"]
   },
-  "I2042": {
-    "nom": "Òscar Pino Vandellòs",
+  "I2599": {
+    "nom": "Montserrat Pujol Ars",
+    "sexe": "F",
+    "naixement": null,
+    "defuncio": null,
+    "apodos": ["Montserrat", "Montse", "topi", "topina", "Monse"]
+  },
+  "I1933": {
+    "nom": "David Usach Garcia",
     "sexe": "M",
     "naixement": null,
     "defuncio": null,
-    "apodos": ["Oscar", "Pino", "Oscaret", "nen"]
+    "apodos": ["David", "Usach", "guelo"]
   },
-  "I3099": {
-    "nom": "Segallet Marc Ars Borràs",
+  "I2994": {
+    "nom": "Jaume Florenza Álvarez",
     "sexe": "M",
     "naixement": null,
     "defuncio": null,
-    "apodos": ["Marc", "Marc Ars", "Segallet", "Ars", "segall"]
-  },
-  "I3004": {
-    "nom": "Josep Maria Taule Figueras",
-    "sexe": "M",
-    "naixement": null,
-    "defuncio": null,
-    "apodos": ["Josep", "Josep Maria", "Taule", "Figueras", "tauleret"]
+    "apodos": ["Jaume", "Florenza"]
   },
   "I2465": {
     "nom": "Marta Pellissa Pujol",
@@ -46,34 +46,34 @@
     "sexe": "F",
     "naixement": null,
     "defuncio": null,
-    "apodos": ["Mireia s", "Segarra", "cisquet", "barbi", "Segarreta"]
+    "apodos": ["Mireia s", "Segarra", "cisquet", "Segarreta"]
   },
   "I2661": {
     "nom": "Sílvia Ars Poll",
     "sexe": "F",
     "naixement": null,
     "defuncio": null,
-    "apodos": ["Silvia", "Ars", "parreta", "Silviet", "Silvita"]
+    "apodos": ["Silvia", "Ars", "parreta", "Silviet", "Silvita", "parra"]
   },
-  "I2599": {
-    "nom": "Montserrat Pujol Ars",
-    "sexe": "F",
-    "naixement": null,
-    "defuncio": null,
-    "apodos": ["Montserrat", "Montse", "topi", "topina", "Monse"]
-  },
-  "I2994": {
-    "nom": "Jaume Florenza Álvarez",
+  "I2042": {
+    "nom": "Òscar Pino Vandellòs",
     "sexe": "M",
     "naixement": null,
     "defuncio": null,
-    "apodos": ["Jaume", "Florenza"]
+    "apodos": ["Oscar", "Pino", "Oscaret", "noi"]
   },
-  "I1933": {
-    "nom": "David Usach Garcia",
+  "I3099": {
+    "nom": "Segallet Marc Ars Borràs",
     "sexe": "M",
     "naixement": null,
     "defuncio": null,
-    "apodos": ["David", "Usach", "guelo"]
+    "apodos": ["Marc", "Marc Ars", "Segallet", "Ars", "segall"]
+  },
+  "I3004": {
+    "nom": "Josep Maria Taule Figueras Piñol",
+    "sexe": "M",
+    "naixement": null,
+    "defuncio": null,
+    "apodos": ["Josep", "Josep Maria", "Taule", "Figueras", "tauleret"]
   }
 }

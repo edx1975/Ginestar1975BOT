@@ -1,7 +1,57 @@
 {
   "8062511186": {
+    "persona_id": "I1843",
+    "nom": "Eduard Llorens Pujol",
+    "username": null
+  },
+  "8062511187": {
+    "persona_id": "I2042",
+    "nom": "Òscar Pino Vandellòs",
+    "username": null
+  },
+  "8062511188": {
+    "persona_id": "I3099",
+    "nom": "Marc Ars Borràs",
+    "username": null
+  },
+  "8062511189": {
+    "persona_id": "I3004",
+    "nom": "Josep Maria Figueras",
+    "username": null
+  },
+  "8062511190": {
     "persona_id": "I2465",
     "nom": "Marta Pellissa Pujol",
+    "username": null
+  },
+  "8062511191": {
+    "persona_id": "I1986",
+    "nom": "Mireia Bladé Montagut",
+    "username": null
+  },
+  "8062511192": {
+    "persona_id": "I2217",
+    "nom": "Mireia Segarra Vandellòs",
+    "username": null
+  },
+  "8062511193": {
+    "persona_id": "I2661",
+    "nom": "Sílvia Ars Poll",
+    "username": null
+  },
+  "8062511194": {
+    "persona_id": "I2599",
+    "nom": "Montserrat Pujol Ars",
+    "username": null
+  },
+  "8062511195": {
+    "persona_id": "I2994",
+    "nom": "Jaume Florenza Álvarez",
+    "username": null
+  },
+  "8062511196": {
+    "persona_id": "I1933",
+    "nom": "David Usach Garcia",
     "username": null
   }
 }

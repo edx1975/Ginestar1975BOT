@@ -20,6 +20,8 @@ wheels/
 .installed.cfg
 *.egg
 MANIFEST
+*.pyc
+*.pyo
 
 # Virtual environments
 .env
@@ -29,6 +31,9 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+
+# Conda
+.conda/
 
 # IDE
 .vscode/
@@ -48,26 +53,24 @@ Thumbs.db
 
 # Project specific
 data/relacions.json
+data/grup_cache.json
+data/kintos_cache.json
+data/kintos_dynamic_cache.json
+data/tots_dynamic_cache.json
 *.log
 temp/
+temp_files/
 cache/
 
-# Conda
-.conda/
+# Railway specific
+railway.json
 
 # Backup files
 backup/temp_files/
 *.backup
 
-# IDE and OS
-.DS_Store
-.vscode/
-.idea/
-*.swp
-*.swo
-*~
-
-# Python cache
-__pycache__/
-*.pyc
-*.pyo
+# Test and debug files
+debug_*.py
+test_*.py
+*_test.py
+*_debug.py

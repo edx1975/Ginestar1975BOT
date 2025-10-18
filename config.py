@@ -9,7 +9,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Configuració del bot
-TELEGRAM_BOT_TOKEN = os.getenv('TELEGRAM_BOT_TOKEN', 'your_bot_token_here')
+TELEGRAM_BOT_TOKEN = os.getenv('TELEGRAM_BOT_TOKEN', 'el_teu_token_aqui')
 GEDCOM_PATH = 'GINESTAR.ged'
 
 # Configuració de dades
