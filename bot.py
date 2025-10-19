@@ -119,7 +119,7 @@ class GenealogicBot:
                 await update.message.reply_text(
                     f"👋 Hola {user.first_name}!\n\n"
                     f"Ja estàs identificat com: *{usuari.nom}*\n\n"
-                    f"Usa /help per veure les comandes disponibles.",
+                    f"Usa `/ajuda` per veure les comandes disponibles.",
                     parse_mode='Markdown'
                 )
             else:
