@@ -728,10 +728,9 @@ Gràcies per la teva contribució! 🙏"""
         if usuari_guardat:
             logger.info(f"Identificació guardada correctament: {usuari_guardat.nom}")
             await query.edit_message_text(
-                f"✅ *Identificació completada!*\n\n"
-                f"Has estat identificat com: *{persona_data['nom']}*\n\n"
-                f"Usa /help per veure les comandes disponibles.",
-                parse_mode='Markdown'
+                f"✅ Identificació completada!\n\n"
+                f"Has estat identificat com: {persona_data['nom']}\n\n"
+                f"Usa /ajuda per veure les comandes disponibles."
             )
         else:
             logger.error(f"Error: No s'ha pogut guardar la identificació per usuari {user_id}")
