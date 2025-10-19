@@ -110,33 +110,12 @@ class GenealogicBot:
     async def start_command(self, update: Update, context: ContextTypes.DEFAULT_TYPE):
         """Handler per al comando /start"""
         try:
-            logger.info("Iniciant start_command")
-            user = update.effective_user
-            logger.info(f"Usuari obtingut: {user.id if user else 'None'}")
-            
-            # Verificar si l'usuari ja està identificat
-            logger.info("Cridant data_manager.obtenir_usuari")
-            usuari = self.data_manager.obtenir_usuari(str(user.id))
-            logger.info(f"Usuari obtingut del data_manager: {usuari}")
-            
-            if usuari:
-                logger.info("Usuari identificat, enviant missatge d'identificat")
-                await update.message.reply_text(
-                    f"👋 Hola {user.first_name}!\n\n"
-                    f"Ja estàs identificat com: *{usuari.nom}*\n\n"
-                    f"Usa /help per veure les comandes disponibles.",
-                    parse_mode='Markdown'
-                )
-            else:
-                logger.info("Usuari no identificat, enviant missatge de benvinguda")
-                await update.message.reply_text(
-                    f"👋 Hola {user.first_name}!\n\n"
-                    f"Benvingut al bot genealògic! 🧬\n\n"
-                    f"Primer has d'identificar-te com una de les persones de l'arbre familiar.\n\n"
-                    f"Usa /identifica per començar.",
-                    parse_mode='Markdown'
-                )
-            logger.info("start_command completat correctament")
+            # Versió simplificada per provar
+            await update.message.reply_text(
+                "👋 Hola! Benvingut al bot genealògic! 🧬\n\n"
+                "Usa /identifica per començar.",
+                parse_mode='Markdown'
+            )
         except Exception as e:
             logger.error(f"Error en start_command: {e}")
             logger.error(f"Traceback: {traceback.format_exc()}")
