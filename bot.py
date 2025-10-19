@@ -137,20 +137,31 @@ class GenealogicBot:
     async def help_command(self, update: Update, context: ContextTypes.DEFAULT_TYPE):
         """Handler per al comando /ajuda"""
         try:
+            logger.info("Iniciant help_command")
             # Llegir text d'ajuda des del fitxer JSON
             help_file = 'data/help_text.json'
+            logger.info(f"Verificant fitxer: {help_file}")
+            
             if os.path.exists(help_file):
+                logger.info("Fitxer existeix, llegint...")
                 with open(help_file, 'r', encoding='utf-8') as f:
                     help_data = json.load(f)
+                logger.info(f"Dades llegides: {help_data}")
+                
                 # Usar help_text (ara és un array) i unir-les amb \n
                 help_lines = help_data.get('help_text', [])
                 help_text = '\n'.join(help_lines) if help_lines else 'Text d\'ajuda no disponible.'
+                logger.info(f"Text d'ajuda formatat: {help_text[:100]}...")
             else:
+                logger.warning("Fitxer d'ajuda no trobat")
                 help_text = 'Text d\'ajuda no trobat.'
             
+            logger.info("Enviant missatge d'ajuda")
             await update.message.reply_text(help_text, parse_mode='HTML')
+            logger.info("Missatge d'ajuda enviat correctament")
         except Exception as e:
             logger.error(f"Error llegint text d'ajuda: {e}")
+            logger.error(f"Traceback: {traceback.format_exc()}")
             await update.message.reply_text(
                 "✖️ Error carregant l'ajuda. Torna-ho a intentar més tard.",
                 parse_mode='HTML'
@@ -791,26 +802,26 @@ Gràcies per la teva contribució! 🙏"""
             # Mostrar TOTES les relacions sanguínies
             relacions_a_mostrar = relacions_sanguinies
             gotes_sang = "🩸" * len(relacions_sanguinies)
-            text = f"{gotes_sang} *Relació entre {nom1} i {nom2}:*\n\n"
+            text = f"{gotes_sang} <b>Relació entre {nom1} i {nom2}:</b>\n\n"
         else:
             # Mostrar les 3 millors relacions no sanguínies
             relacions_a_mostrar = relacions_no_sanguinies[:3]
-            text = f"💍 *Relació entre {nom1} i {nom2}:*\n"
-            text += f"*Nota:* No hi ha relacions sanguínies directes. Mostrant les millors relacions per afinitat:\n\n"
+            text = f"💍 <b>Relació entre {nom1} i {nom2}:</b>\n"
+            text += f"<b>Nota:</b> No hi ha relacions sanguínies directes. Mostrant les millors relacions per afinitat:\n\n"
         
         # Mostrar cada relació
         for i, relacio in enumerate(relacions_a_mostrar):
             if len(relacions_a_mostrar) > 1:
-                text += f"**Camí {i+1}:**\n\n"
+                text += f"<b>Camí {i+1}:</b>\n\n"
             
-            text += f"• **Relació:** {relacio.grau}\n"
-            text += f"• **Tipus:** {relacio.tipus}\n"
-            text += f"• **Distància:** {relacio.distancia} passos\n"
+            text += f"• <b>Relació:</b> {relacio.grau}\n"
+            text += f"• <b>Tipus:</b> {relacio.tipus}\n"
+            text += f"• <b>Distància:</b> {relacio.distancia} passos\n"
             
             # Afegir camí familiar si està disponible
             if relacio.cami:
                 cami_formatat = self._formatar_cami_relacio(relacio.cami)
-                text += f"• **Camí:** {cami_formatat}\n"
+                text += f"• <b>Camí:</b> {cami_formatat}\n"
             
             text += "\n"
         
@@ -1502,18 +1513,18 @@ Gràcies per la teva contribució! 🙏"""
     async def _send_message_safe(self, update: Update, text: str, delay: float = 1.0):
         """Envia un missatge amb rate limiting per evitar flood control"""
         try:
-            await update.message.reply_text(text, parse_mode='Markdown')
+            await update.message.reply_text(text, parse_mode='HTML')
         except RetryAfter as e:
             logger.warning(f"Rate limited, esperant {e.retry_after} segons...")
             await asyncio.sleep(e.retry_after)
-            await update.message.reply_text(text, parse_mode='Markdown')
+            await update.message.reply_text(text, parse_mode='HTML')
         except Exception as e:
             logger.error(f"Error enviant missatge: {e}")
-            # Si hi ha error de Markdown parsing, enviar sense Markdown
+            # Si hi ha error de HTML parsing, enviar sense HTML
             try:
                 await update.message.reply_text(text)
             except Exception as e2:
-                logger.error(f"Error enviant sense Markdown: {e2}")
+                logger.error(f"Error enviant sense HTML: {e2}")
                 # Si encara falla, dividir el missatge
                 if len(text) > 4000:
                     await self._send_long_message(update, text, delay)
