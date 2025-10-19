@@ -110,19 +110,19 @@ class GenealogicBot:
     async def start_command(self, update: Update, context: ContextTypes.DEFAULT_TYPE):
         """Handler per al comando /start"""
         try:
-        user = update.effective_user
-        
-        # Verificar si l'usuari ja està identificat
-        usuari = self.data_manager.obtenir_usuari(str(user.id))
-        
-        if usuari:
-            await update.message.reply_text(
-                f"👋 Hola {user.first_name}!\n\n"
-                f"Ja estàs identificat com: *{usuari.nom}*\n\n"
+            user = update.effective_user
+            
+            # Verificar si l'usuari ja està identificat
+            usuari = self.data_manager.obtenir_usuari(str(user.id))
+            
+            if usuari:
+                await update.message.reply_text(
+                    f"👋 Hola {user.first_name}!\n\n"
+                    f"Ja estàs identificat com: *{usuari.nom}*\n\n"
                     f"Usa /help per veure les comandes disponibles.",
                     parse_mode='Markdown'
-            )
-        else:
+                )
+            else:
                 # Si no està identificat, obrir automàticament /identifica
                 await self.identifica_command(update, context)
                 
@@ -164,7 +164,7 @@ class GenealogicBot:
             logger.error(f"Traceback: {traceback.format_exc()}")
             await update.message.reply_text(
                 "✖️ Error carregant l'ajuda. Torna-ho a intentar més tard.",
-                parse_mode='HTML'
+                parse_mode='Markdown'
             )
     
     async def identifica_command(self, update: Update, context: ContextTypes.DEFAULT_TYPE):
