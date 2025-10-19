@@ -65,7 +65,7 @@ Kintos75/
 - `/grup` - Mostrar relacions amb tot el grup
 - `/kintos` - Matriu de relacions entre tots
 - `/apodos` - Llistar malnoms disponibles
-- `/help` - Ajuda
+- `/ajuda` - Ajuda
 
 ## 📊 Sistema de pesos
 

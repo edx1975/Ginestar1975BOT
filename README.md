@@ -34,7 +34,7 @@ Kintos75/
 - `/grup` - Relacions amb grup
 - `/kintos` - Matriu de relacions
 - `/apodos` - Llistar malnoms
-- `/help` - Ajuda
+- `/ajuda` - Ajuda
 
 ## 📚 Documentació
 
