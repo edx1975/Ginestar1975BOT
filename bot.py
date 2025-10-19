@@ -108,24 +108,31 @@ class GenealogicBot:
     
     async def start_command(self, update: Update, context: ContextTypes.DEFAULT_TYPE):
         """Handler per al comando /start"""
-        user = update.effective_user
-        
-        # Verificar si l'usuari ja està identificat
-        usuari = self.data_manager.obtenir_usuari(str(user.id))
-        
-        if usuari:
+        try:
+            user = update.effective_user
+            
+            # Verificar si l'usuari ja està identificat
+            usuari = self.data_manager.obtenir_usuari(str(user.id))
+            
+            if usuari:
+                await update.message.reply_text(
+                    f"👋 Hola {user.first_name}!\n\n"
+                    f"Ja estàs identificat com: *{usuari.nom}*\n\n"
+                    f"Usa /help per veure les comandes disponibles.",
+                    parse_mode='Markdown'
+                )
+            else:
+                await update.message.reply_text(
+                    f"👋 Hola {user.first_name}!\n\n"
+                    f"Benvingut al bot genealògic! 🧬\n\n"
+                    f"Primer has d'identificar-te com una de les persones de l'arbre familiar.\n\n"
+                    f"Usa /identifica per començar.",
+                    parse_mode='Markdown'
+                )
+        except Exception as e:
+            logger.error(f"Error en start_command: {e}")
             await update.message.reply_text(
-                f"👋 Hola {user.first_name}!\n\n"
-                f"Ja estàs identificat com: *{usuari.nom}*\n\n"
-                f"Usa /help per veure les comandes disponibles.",
-                parse_mode='Markdown'
-            )
-        else:
-            await update.message.reply_text(
-                f"👋 Hola {user.first_name}!\n\n"
-                f"Benvingut al bot genealògic! 🧬\n\n"
-                f"Primer has d'identificar-te com una de les persones de l'arbre familiar.\n\n"
-                f"Usa /identifica per començar.",
+                "✖️ Error processant el comando /start. Torna-ho a intentar.",
                 parse_mode='Markdown'
             )
     
