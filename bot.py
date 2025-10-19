@@ -435,7 +435,7 @@ class GenealogicBot:
             
             # Ordenar relacions per pes (calcular dinàmicament)
             relacions_ordenades = []
-                for item in relacions_persona:
+            for item in relacions_persona:
                 relacio_data = item['relacio']
                 # Calcular pes: 1000 si sanguinia + 1000/distancia
                 pes = 1000 if relacio_data['tipus'] == 'sanguinia' else 100
@@ -449,15 +449,15 @@ class GenealogicBot:
             text += f"👤 *{persona_nom}:*\n\n"
             contador = 1
             for item in relacions_ordenades:
-                    persona_altra = item['persona_nom']
-                    relacio_data = item['relacio']
-                    num_gotes = item['num_gotes']
+                persona_altra = item['persona_nom']
+                relacio_data = item['relacio']
+                num_gotes = item['num_gotes']
                 pes = item['pes']
-                    
-                    # Generar emoji dinàmic
-                    if num_gotes > 0:
-                        emoji = "🩸" * num_gotes
-                    else:
+                
+                # Generar emoji dinàmic
+                if num_gotes > 0:
+                    emoji = "🩸" * num_gotes
+                else:
                         emoji = "💍"
                     
                 # Trobar lletres de les persones
