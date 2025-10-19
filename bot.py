@@ -110,19 +110,19 @@ class GenealogicBot:
     async def start_command(self, update: Update, context: ContextTypes.DEFAULT_TYPE):
         """Handler per al comando /start"""
         try:
-            user = update.effective_user
-            
-            # Verificar si l'usuari ja està identificat
-            usuari = self.data_manager.obtenir_usuari(str(user.id))
-            
-            if usuari:
-                await update.message.reply_text(
-                    f"👋 Hola {user.first_name}!\n\n"
-                    f"Ja estàs identificat com: *{usuari.nom}*\n\n"
+        user = update.effective_user
+        
+        # Verificar si l'usuari ja està identificat
+        usuari = self.data_manager.obtenir_usuari(str(user.id))
+        
+        if usuari:
+            await update.message.reply_text(
+                f"👋 Hola {user.first_name}!\n\n"
+                f"Ja estàs identificat com: *{usuari.nom}*\n\n"
                     f"Usa /help per veure les comandes disponibles.",
                     parse_mode='Markdown'
-                )
-            else:
+            )
+        else:
                 # Si no està identificat, obrir automàticament /identifica
                 await self.identifica_command(update, context)
                 
@@ -435,7 +435,7 @@ class GenealogicBot:
             
             # Ordenar relacions per pes (calcular dinàmicament)
             relacions_ordenades = []
-            for item in relacions_persona:
+                for item in relacions_persona:
                 relacio_data = item['relacio']
                 # Calcular pes: 1000 si sanguinia + 1000/distancia
                 pes = 1000 if relacio_data['tipus'] == 'sanguinia' else 100
@@ -449,17 +449,17 @@ class GenealogicBot:
             text += f"👤 *{persona_nom}:*\n\n"
             contador = 1
             for item in relacions_ordenades:
-                persona_altra = item['persona_nom']
-                relacio_data = item['relacio']
-                num_gotes = item['num_gotes']
+                    persona_altra = item['persona_nom']
+                    relacio_data = item['relacio']
+                    num_gotes = item['num_gotes']
                 pes = item['pes']
-                
-                # Generar emoji dinàmic
-                if num_gotes > 0:
-                    emoji = "🩸" * num_gotes
-                else:
-                    emoji = "💍"
-                
+                    
+                    # Generar emoji dinàmic
+                    if num_gotes > 0:
+                        emoji = "🩸" * num_gotes
+                    else:
+                        emoji = "💍"
+                    
                 # Trobar lletres de les persones
                 persona_letter = None
                 for letter, nom in self.persona_letters.items():
@@ -802,26 +802,26 @@ Gràcies per la teva contribució! 🙏"""
             # Mostrar TOTES les relacions sanguínies
             relacions_a_mostrar = relacions_sanguinies
             gotes_sang = "🩸" * len(relacions_sanguinies)
-            text = f"{gotes_sang} <b>Relació entre {nom1} i {nom2}:</b>\n\n"
+            text = f"{gotes_sang} *Relació entre {nom1} i {nom2}:*\n\n"
         else:
             # Mostrar les 3 millors relacions no sanguínies
             relacions_a_mostrar = relacions_no_sanguinies[:3]
-            text = f"💍 <b>Relació entre {nom1} i {nom2}:</b>\n"
-            text += f"<b>Nota:</b> No hi ha relacions sanguínies directes. Mostrant les millors relacions per afinitat:\n\n"
+            text = f"💍 *Relació entre {nom1} i {nom2}:*\n"
+            text += f"*Nota:* No hi ha relacions sanguínies directes. Mostrant les millors relacions per afinitat:\n\n"
         
         # Mostrar cada relació
         for i, relacio in enumerate(relacions_a_mostrar):
             if len(relacions_a_mostrar) > 1:
-                text += f"<b>Camí {i+1}:</b>\n\n"
+                text += f"**Camí {i+1}:**\n\n"
             
-            text += f"• <b>Relació:</b> {relacio.grau}\n"
-            text += f"• <b>Tipus:</b> {relacio.tipus}\n"
-            text += f"• <b>Distància:</b> {relacio.distancia} passos\n"
+            text += f"• **Relació:** {relacio.grau}\n"
+            text += f"• **Tipus:** {relacio.tipus}\n"
+            text += f"• **Distància:** {relacio.distancia} passos\n"
             
             # Afegir camí familiar si està disponible
             if relacio.cami:
                 cami_formatat = self._formatar_cami_relacio(relacio.cami)
-                text += f"• <b>Camí:</b> {cami_formatat}\n"
+                text += f"• **Camí:** {cami_formatat}\n"
             
             text += "\n"
         
@@ -1513,23 +1513,23 @@ Gràcies per la teva contribució! 🙏"""
     async def _send_message_safe(self, update: Update, text: str, delay: float = 1.0):
         """Envia un missatge amb rate limiting per evitar flood control"""
         try:
-            await update.message.reply_text(text, parse_mode='HTML')
+            await update.message.reply_text(text, parse_mode='Markdown')
         except RetryAfter as e:
             logger.warning(f"Rate limited, esperant {e.retry_after} segons...")
             await asyncio.sleep(e.retry_after)
-            await update.message.reply_text(text, parse_mode='HTML')
+            await update.message.reply_text(text, parse_mode='Markdown')
         except Exception as e:
             logger.error(f"Error enviant missatge: {e}")
-            # Si hi ha error de HTML parsing, enviar sense HTML
+            # Si hi ha error de Markdown parsing, enviar sense Markdown
             try:
                 await update.message.reply_text(text)
             except Exception as e2:
-                logger.error(f"Error enviant sense HTML: {e2}")
+                logger.error(f"Error enviant sense Markdown: {e2}")
                 # Si encara falla, dividir el missatge
-                if len(text) > 4000:
-                    await self._send_long_message(update, text, delay)
-                else:
-                    raise e
+            if len(text) > 4000:
+                await self._send_long_message(update, text, delay)
+            else:
+                raise e
     
     async def _send_long_message(self, update: Update, text: str, delay: float = 1.0):
         """Divideix i envia un missatge llarg en parts"""
