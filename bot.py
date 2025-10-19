@@ -592,36 +592,36 @@ Gràcies per la teva contribució! 🙏"""
     
     async def enviar_command(self, update: Update, context: ContextTypes.DEFAULT_TYPE):
         """Handler per al comando /enviar - guarda aportacions dels usuaris"""
-        if not context.args:
-            await update.message.reply_text(
-                "✖️ Has d'especificar el missatge a enviar.\n\n"
-                "Exemple: `/enviar JoanPratMoliner>MontserratMolinerRoca>DavidGilRoca`",
-                parse_mode='Markdown'
-            )
-            return
-        
-        # Unir tots els arguments en un sol missatge
-        missatge = " ".join(context.args)
-        
-        # Obtenir informació de l'usuari
-        user = update.effective_user
-        user_id = str(user.id)
-        username = user.username or "Sense username"
-        nom_complet = f"{user.first_name or ''} {user.last_name or ''}".strip() or "Usuari desconegut"
-        
-        # Crear entrada d'aportació
-        aportacio = {
-            "id": f"aport_{user_id}_{int(time.time())}",
-            "usuari_id": user_id,
-            "usuari_nom": nom_complet,
-            "username": username,
-            "missatge": missatge,
-            "data": time.strftime("%Y-%m-%d %H:%M:%S"),
-            "timestamp": time.time()
-        }
-        
-        # Guardar a l'arxiu persistent
         try:
+            if not context.args:
+                await update.message.reply_text(
+                    "✖️ Has d'especificar el missatge a enviar.\n\n"
+                    "Exemple: `/enviar JoanPratMoliner>MontserratMolinerRoca>DavidGilRoca`",
+                    parse_mode='Markdown'
+                )
+                return
+            
+            # Unir tots els arguments en un sol missatge
+            missatge = " ".join(context.args)
+            
+            # Obtenir informació de l'usuari
+            user = update.effective_user
+            user_id = str(user.id)
+            username = user.username or "Sense username"
+            nom_complet = f"{user.first_name or ''} {user.last_name or ''}".strip() or "Usuari desconegut"
+            
+            # Crear entrada d'aportació
+            aportacio = {
+                "id": f"aport_{user_id}_{int(time.time())}",
+                "usuari_id": user_id,
+                "usuari_nom": nom_complet,
+                "username": username,
+                "missatge": missatge,
+                "data": time.strftime("%Y-%m-%d %H:%M:%S"),
+                "timestamp": time.time()
+            }
+            
+            # Guardar a l'arxiu persistent
             aportacions_file = 'data/aportacions.json'
             
             # Carregar dades existents
@@ -640,11 +640,16 @@ Gràcies per la teva contribució! 🙏"""
             with open(aportacions_file, 'w', encoding='utf-8') as f:
                 json.dump(data, f, indent=2, ensure_ascii=False)
             
+            # Escapar caràcters especials del missatge per evitar errors de parsing
+            import re
+            missatge_escapat = re.sub(r'([*_`[\]()~>#+=|{}.!-])', r'\\\1', missatge)
+            nom_complet_escapat = re.sub(r'([*_`[\]()~>#+=|{}.!-])', r'\\\1', nom_complet)
+            
             # Resposta d'èxit
             await update.message.reply_text(
                 f"✅ *Aportació rebuda!*\n\n"
-                f"📝 **Missatge:** {missatge}\n"
-                f"👤 **Usuari:** {nom_complet}\n"
+                f"📝 **Missatge:** {missatge_escapat}\n"
+                f"👤 **Usuari:** {nom_complet_escapat}\n"
                 f"📅 **Data:** {aportacio['data']}\n\n"
                 f"Gràcies per la teva contribució! La revisarem i l'afegirem al sistema si és correcta.",
                 parse_mode='Markdown'
